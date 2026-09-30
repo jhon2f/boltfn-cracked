@@ -1,0 +1,2856 @@
+[17:29:01.823] Loading script C:\Users\Vblak\OneDrive\Desktop\bfn\bypass\replay.py
+[17:29:01.825] HTTP(S) proxy listening at *:8080.
+[17:29:02.522][127.0.0.1:31888] client connect
+127.0.0.1:31888: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:31888: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+^C[17:35:33.046] Loading script bypass\replay.py
+[17:35:33.048] HTTP(S) proxy listening at *:8080.
+[17:35:34.141][127.0.0.1:32104] client connect
+127.0.0.1:32104: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:32104: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+^C[17:47:30.878] Loading script bypass\replay.py
+[17:47:30.881] HTTP(S) proxy listening at *:8080.
+[17:47:31.466][127.0.0.1:32752] client connect
+127.0.0.1:32752: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:32752: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+[17:47:35.209][127.0.0.1:32756] client connect
+[17:47:35.210][127.0.0.1:32755] client connect
+[17:47:35.211][127.0.0.1:32753] client connect
+[17:47:35.212][127.0.0.1:32754] client connect
+[17:47:35.214][127.0.0.1:32758] client connect
+[17:47:35.215][127.0.0.1:32757] client connect
+[17:47:35.218][127.0.0.1:32759] client connect
+[17:47:35.219][127.0.0.1:32761] client connect
+[17:47:35.221][127.0.0.1:32760] client connect
+[17:47:35.223][127.0.0.1:32763] client connect
+[17:47:35.227][127.0.0.1:32762] client connect
+[17:47:35.229][127.0.0.1:32765] client connect
+[17:47:35.231][127.0.0.1:32764] client connect
+[17:47:35.233][127.0.0.1:32767] client connect
+[17:47:35.236][127.0.0.1:32766] client connect
+[17:47:35.238][127.0.0.1:32768] client connect
+[17:47:35.240][127.0.0.1:32769] client connect
+[17:47:35.242][127.0.0.1:32770] client connect
+[17:47:35.244][127.0.0.1:32771] client connect
+[17:47:35.246][127.0.0.1:32772] client connect
+[17:47:35.249][127.0.0.1:32773] client connect
+[17:47:35.252][127.0.0.1:32774] client connect
+[17:47:35.255][127.0.0.1:32775] client connect
+[17:47:35.258][127.0.0.1:32777] client connect
+[17:47:35.260][127.0.0.1:32778] client connect
+[17:47:35.262][127.0.0.1:32776] client connect
+[17:47:35.264][127.0.0.1:32779] client connect
+[17:47:35.267][127.0.0.1:32780] client connect
+[17:47:35.269][127.0.0.1:32788] client connect
+[17:47:35.271][127.0.0.1:32783] client connect
+[17:47:35.274][127.0.0.1:32782] client connect
+[17:47:35.276][127.0.0.1:32790] client connect
+[17:47:35.278][127.0.0.1:32785] client connect
+[17:47:35.281][127.0.0.1:32784] client connect
+[17:47:35.283][127.0.0.1:32786] client connect
+[17:47:35.285][127.0.0.1:32781] client connect
+[17:47:35.287][127.0.0.1:32789] client connect
+[17:47:35.290][127.0.0.1:32791] client connect
+[17:47:35.292][127.0.0.1:32793] client connect
+[17:47:35.294][127.0.0.1:32787] client connect
+[17:47:35.297][127.0.0.1:32792] client connect
+[17:47:35.299][127.0.0.1:32794] client connect
+[17:47:35.301][127.0.0.1:32795] client connect
+[17:47:35.303][127.0.0.1:32796] client connect
+[17:47:35.305][127.0.0.1:32797] client connect
+[17:47:35.308][127.0.0.1:32798] client connect
+[17:47:35.310][127.0.0.1:32800] client connect
+[17:47:35.312][127.0.0.1:32801] client connect
+[17:47:35.315][127.0.0.1:32802] client connect
+[17:47:35.317][127.0.0.1:32799] client connect
+[17:47:35.321][127.0.0.1:32760] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.321][127.0.0.1:32754] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.322][127.0.0.1:32761] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.322][127.0.0.1:32759] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.322][127.0.0.1:32756] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.324][127.0.0.1:32762] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.324][127.0.0.1:32757] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.324][127.0.0.1:32753] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.325][127.0.0.1:32758] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.326][127.0.0.1:32764] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.327][127.0.0.1:32767] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.330][127.0.0.1:32769] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.330][127.0.0.1:32768] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.330][127.0.0.1:32766] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.332][127.0.0.1:32770] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.332][127.0.0.1:32763] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.332][127.0.0.1:32755] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.333][127.0.0.1:32772] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.335][127.0.0.1:32773] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.335][127.0.0.1:32771] server connect login.live.com:443 (40.126.62.129:443)
+[17:47:35.336][127.0.0.1:32765] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.339][127.0.0.1:32774] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.340][127.0.0.1:32775] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.341][127.0.0.1:32777] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.344][127.0.0.1:32778] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.346][127.0.0.1:32776] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.348][127.0.0.1:32779] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.351][127.0.0.1:32780] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.359][127.0.0.1:32783] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.360][127.0.0.1:32788] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.367][127.0.0.1:32784] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.369][127.0.0.1:32781] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.370][127.0.0.1:32786] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.374][127.0.0.1:32782] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.374][127.0.0.1:32785] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.374][127.0.0.1:32790] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.376][127.0.0.1:32789] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.377][127.0.0.1:32791] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.378][127.0.0.1:32793] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.381][127.0.0.1:32792] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.382][127.0.0.1:32794] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.382][127.0.0.1:32787] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.384][127.0.0.1:32795] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.386][127.0.0.1:32796] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.391][127.0.0.1:32798] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.391][127.0.0.1:32800] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.392][127.0.0.1:32797] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.393][127.0.0.1:32799] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.394][127.0.0.1:32802] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:35.396][127.0.0.1:32801] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.163][127.0.0.1:32764] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.163][127.0.0.1:32782] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.165][127.0.0.1:32853] client connect
+[17:47:36.166][127.0.0.1:32854] client connect
+[17:47:36.166][127.0.0.1:32768] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.167][127.0.0.1:32756] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.167][127.0.0.1:32764] client disconnect
+[17:47:36.167][127.0.0.1:32782] client disconnect
+[17:47:36.168][127.0.0.1:32755] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.168][127.0.0.1:32855] client connect
+[17:47:36.170][127.0.0.1:32801] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.170][127.0.0.1:32856] client connect
+[17:47:36.171][127.0.0.1:32768] client disconnect
+[17:47:36.171][127.0.0.1:32756] client disconnect
+[17:47:36.172][127.0.0.1:32754] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.172][127.0.0.1:32857] client connect
+[17:47:36.173][127.0.0.1:32755] client disconnect
+[17:47:36.175][127.0.0.1:32858] client connect
+[17:47:36.176][127.0.0.1:32801] client disconnect
+[17:47:36.177][127.0.0.1:32859] client connect
+[17:47:36.177][127.0.0.1:32754] client disconnect
+[17:47:36.178][127.0.0.1:32860] client connect
+[17:47:36.180][127.0.0.1:32861] client connect
+[17:47:36.183][127.0.0.1:32862] client connect
+[17:47:36.185][127.0.0.1:32863] client connect
+[17:47:36.188][127.0.0.1:32864] client connect
+[17:47:36.190][127.0.0.1:32868] client connect
+[17:47:36.193][127.0.0.1:32865] client connect
+[17:47:36.195][127.0.0.1:32866] client connect
+[17:47:36.197][127.0.0.1:32796] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.197][127.0.0.1:32867] client connect
+[17:47:36.200][127.0.0.1:32761] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.200][127.0.0.1:32790] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.200][127.0.0.1:32869] client connect
+[17:47:36.203][127.0.0.1:32766] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.203][127.0.0.1:32870] client connect
+[17:47:36.204][127.0.0.1:32796] client disconnect
+[17:47:36.206][127.0.0.1:32871] client connect
+[17:47:36.207][127.0.0.1:32761] client disconnect
+[17:47:36.207][127.0.0.1:32790] client disconnect
+[17:47:36.208][127.0.0.1:32872] client connect
+[17:47:36.209][127.0.0.1:32766] client disconnect
+[17:47:36.211][127.0.0.1:32873] client connect
+[17:47:36.213][127.0.0.1:32767] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.214][127.0.0.1:32874] client connect
+[17:47:36.216][127.0.0.1:32769] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.216][127.0.0.1:32875] client connect
+[17:47:36.220][127.0.0.1:32876] client connect
+[17:47:36.221][127.0.0.1:32767] client disconnect
+[17:47:36.223][127.0.0.1:32760] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.223][127.0.0.1:32877] client connect
+[17:47:36.224][127.0.0.1:32769] client disconnect
+[17:47:36.225][127.0.0.1:32880] client connect
+[17:47:36.228][127.0.0.1:32784] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.228][127.0.0.1:32881] client connect
+[17:47:36.229][127.0.0.1:32760] client disconnect
+[17:47:36.231][127.0.0.1:32883] client connect
+[17:47:36.234][127.0.0.1:32765] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.234][127.0.0.1:32791] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.234][127.0.0.1:32886] client connect
+[17:47:36.235][127.0.0.1:32784] client disconnect
+[17:47:36.237][127.0.0.1:32887] client connect
+[17:47:36.239][127.0.0.1:32888] client connect
+[17:47:36.240][127.0.0.1:32765] client disconnect
+[17:47:36.240][127.0.0.1:32791] client disconnect
+[17:47:36.242][127.0.0.1:32889] client connect
+[17:47:36.244][127.0.0.1:32890] client connect
+[17:47:36.246][127.0.0.1:32891] client connect
+[17:47:36.248][127.0.0.1:32892] client connect
+[17:47:36.251][127.0.0.1:32893] client connect
+[17:47:36.253][127.0.0.1:32903] client connect
+[17:47:36.255][127.0.0.1:32853] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.256][127.0.0.1:32904] client connect
+[17:47:36.259][127.0.0.1:32905] client connect
+[17:47:36.261][127.0.0.1:32855] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.262][127.0.0.1:32909] client connect
+[17:47:36.264][127.0.0.1:32856] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.264][127.0.0.1:32854] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.265][127.0.0.1:32911] client connect
+[17:47:36.267][127.0.0.1:32857] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.267][127.0.0.1:32912] client connect
+[17:47:36.270][127.0.0.1:32923] client connect
+[17:47:36.272][127.0.0.1:32925] client connect
+[17:47:36.274][127.0.0.1:32927] client connect
+[17:47:36.283][127.0.0.1:32935] client connect
+[17:47:36.284][127.0.0.1:32859] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.285][127.0.0.1:32862] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.285][127.0.0.1:32861] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.285][127.0.0.1:32860] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.285][127.0.0.1:32864] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.285][127.0.0.1:32858] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.287][127.0.0.1:32863] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.288][127.0.0.1:32865] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.288][127.0.0.1:32868] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.289][127.0.0.1:32866] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.290][127.0.0.1:32867] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.294][127.0.0.1:32869] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.294][127.0.0.1:32870] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.296][127.0.0.1:32872] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.297][127.0.0.1:32871] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.300][127.0.0.1:32873] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.310][127.0.0.1:32874] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.311][127.0.0.1:32875] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.311][127.0.0.1:32876] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.313][127.0.0.1:32877] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.313][127.0.0.1:32880] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.316][127.0.0.1:32883] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.318][127.0.0.1:32777] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.318][127.0.0.1:32777] client disconnect
+[17:47:36.319][127.0.0.1:32945] client connect
+[17:47:36.321][127.0.0.1:32886] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.322][127.0.0.1:32881] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.323][127.0.0.1:32887] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.326][127.0.0.1:32888] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.328][127.0.0.1:32889] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.331][127.0.0.1:32890] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.335][127.0.0.1:32891] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.336][127.0.0.1:32892] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.340][127.0.0.1:32903] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.341][127.0.0.1:32893] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.344][127.0.0.1:32909] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.345][127.0.0.1:32911] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.345][127.0.0.1:32904] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.346][127.0.0.1:32905] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.357][127.0.0.1:32912] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.357][127.0.0.1:32925] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.358][127.0.0.1:32923] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.358][127.0.0.1:32927] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.359][127.0.0.1:32935] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.371][127.0.0.1:32772] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.372][127.0.0.1:32772] client disconnect
+[17:47:36.372][127.0.0.1:32947] client connect
+[17:47:36.387][127.0.0.1:32945] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.447][127.0.0.1:32947] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.457][127.0.0.1:32783] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.458][127.0.0.1:32783] client disconnect
+[17:47:36.458][127.0.0.1:32949] client connect
+[17:47:36.504][127.0.0.1:32951] client connect
+[17:47:36.527][127.0.0.1:32949] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.544][127.0.0.1:32951] server connect account-public-service-prod.ol.epicgames.com:443 (44.199.166.34:443)
+[17:47:36.774][127.0.0.1:32953] client connect
+[17:47:36.783][127.0.0.1:32873] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.784][127.0.0.1:32873] client disconnect
+[17:47:36.784][127.0.0.1:32955] client connect
+[17:47:36.795][127.0.0.1:32856] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.796][127.0.0.1:32856] client disconnect
+[17:47:36.796][127.0.0.1:32957] client connect
+[17:47:36.813][127.0.0.1:32959] client connect
+[17:47:36.826][127.0.0.1:32904] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.826][127.0.0.1:32904] client disconnect
+[17:47:36.826][127.0.0.1:32961] client connect
+[17:47:36.828][127.0.0.1:32962] client connect
+[17:47:36.829][127.0.0.1:32762] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:36.830][127.0.0.1:32951] server disconnect account-public-service-prod.ol.epicgames.com:443 (44.199.166.34:443)
+[17:47:36.831][127.0.0.1:32762] client disconnect
+[17:47:36.832][127.0.0.1:32951] client disconnect
+[17:47:36.833][127.0.0.1:32963] client connect
+[17:47:36.834][127.0.0.1:32877] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.836][127.0.0.1:32877] client disconnect
+[17:47:36.836][127.0.0.1:32965] client connect
+[17:47:36.840][127.0.0.1:32953] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.849][127.0.0.1:32955] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.860][127.0.0.1:32969] client connect
+[17:47:36.862][127.0.0.1:32970] client connect
+[17:47:36.866][127.0.0.1:32973] client connect
+[17:47:36.868][127.0.0.1:32957] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.872][127.0.0.1:32975] client connect
+[17:47:36.878][127.0.0.1:32959] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.881][127.0.0.1:32977] client connect
+[17:47:36.891][127.0.0.1:32979] client connect
+[17:47:36.895][127.0.0.1:32892] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:36.895][127.0.0.1:32892] client disconnect
+[17:47:36.895][127.0.0.1:32981] client connect
+[17:47:36.897][127.0.0.1:32961] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.899][127.0.0.1:32962] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.899][127.0.0.1:32983] client connect
+[17:47:36.901][127.0.0.1:32965] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.902][127.0.0.1:32963] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.927][127.0.0.1:32970] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.928][127.0.0.1:32969] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.929][127.0.0.1:32973] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.937][127.0.0.1:32975] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.948][127.0.0.1:32977] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.954][127.0.0.1:32985] client connect
+[17:47:36.956][127.0.0.1:32979] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.961][127.0.0.1:32981] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:36.964][127.0.0.1:32983] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:36.970][127.0.0.1:32987] client connect
+[17:47:36.997][127.0.0.1:32989] client connect
+[17:47:37.031][127.0.0.1:32985] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:37.032][127.0.0.1:32991] client connect
+[17:47:37.045][127.0.0.1:32987] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:37.063][127.0.0.1:32989] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:37.100][127.0.0.1:32991] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:37.148][127.0.0.1:32993] client connect
+[17:47:37.213][127.0.0.1:32993] server connect account.live.com:443 (20.190.190.130:443)
+[17:47:37.302][127.0.0.1:32859] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.303][127.0.0.1:32781] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.304][127.0.0.1:32995] client connect
+[17:47:37.306][127.0.0.1:32996] client connect
+[17:47:37.306][127.0.0.1:32859] client disconnect
+[17:47:37.306][127.0.0.1:32781] client disconnect
+[17:47:37.307][127.0.0.1:32793] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.307][127.0.0.1:32863] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.309][127.0.0.1:32793] client disconnect
+[17:47:37.310][127.0.0.1:32863] client disconnect
+[17:47:37.341][127.0.0.1:32868] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.341][127.0.0.1:32771] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:37.342][127.0.0.1:32999] client connect
+[17:47:37.342][127.0.0.1:32868] client disconnect
+[17:47:37.343][127.0.0.1:32771] client disconnect
+[17:47:37.374][127.0.0.1:32995] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:37.374][127.0.0.1:32996] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:37.398][127.0.0.1:32794] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.398][127.0.0.1:32905] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.399][127.0.0.1:33001] client connect
+[17:47:37.399][127.0.0.1:32794] client disconnect
+[17:47:37.399][127.0.0.1:32905] client disconnect
+[17:47:37.420][127.0.0.1:32999] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:37.425][127.0.0.1:32957] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.425][127.0.0.1:32957] client disconnect
+[17:47:37.425][127.0.0.1:33003] client connect
+[17:47:37.447][127.0.0.1:33004] client connect
+[17:47:37.447][127.0.0.1:32759] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:37.448][127.0.0.1:32865] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.449][127.0.0.1:32759] client disconnect
+[17:47:37.449][127.0.0.1:32865] client disconnect
+[17:47:37.464][127.0.0.1:33001] server connect login.live.com:443 (20.190.190.132:443)
+[17:47:37.467][127.0.0.1:32758] server disconnect login.live.com:443 (40.126.62.129:443)
+[17:47:37.468][127.0.0.1:32858] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.468][127.0.0.1:33008] client connect
+[17:47:37.469][127.0.0.1:32758] client disconnect
+[17:47:37.469][127.0.0.1:32858] client disconnect
+[17:47:37.476][127.0.0.1:32795] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.476][127.0.0.1:32871] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.477][127.0.0.1:33010] client connect
+[17:47:37.477][127.0.0.1:32795] client disconnect
+[17:47:37.477][127.0.0.1:32871] client disconnect
+[17:47:37.480][127.0.0.1:32962] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.481][127.0.0.1:33011] client connect
+[17:47:37.481][127.0.0.1:32799] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.482][127.0.0.1:32909] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.482][127.0.0.1:33012] client connect
+[17:47:37.483][127.0.0.1:32962] client disconnect
+[17:47:37.484][127.0.0.1:32799] client disconnect
+[17:47:37.484][127.0.0.1:32909] client disconnect
+[17:47:37.494][127.0.0.1:32955] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.495][127.0.0.1:32955] client disconnect
+[17:47:37.495][127.0.0.1:33016] client connect
+[17:47:37.501][127.0.0.1:32780] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:47:37.501][127.0.0.1:32875] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:47:37.502][127.0.0.1:33018] client connect
+[17:47:37.502][127.0.0.1:32780] client disconnect
+[17:47:37.503][127.0.0.1:32875] client disconnect
+[17:47:37.509][127.0.0.1:33003] server connect login.live.com:443 (20.190.190.132:443)
+^C[17:47:45.572] Loading script bypass\replay.py
+[17:47:45.574] HTTP(S) proxy listening at *:8080.
+[17:47:46.512][127.0.0.1:33112] client connect
+127.0.0.1:33112: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:33112: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+^C[17:49:09.223] Loading script bypass\replay.py
+[17:49:09.226] HTTP(S) proxy listening at *:8080.
+[17:49:10.491][127.0.0.1:33163] client connect
+127.0.0.1:33163: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:33163: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+[17:49:15.458][127.0.0.1:33165] client connect
+[17:49:15.458][127.0.0.1:33176] client connect
+[17:49:15.459][127.0.0.1:33173] client connect
+[17:49:15.460][127.0.0.1:33164] client connect
+[17:49:15.461][127.0.0.1:33178] client connect
+[17:49:15.461][127.0.0.1:33175] client connect
+[17:49:15.464][127.0.0.1:33167] client connect
+[17:49:15.467][127.0.0.1:33166] client connect
+[17:49:15.469][127.0.0.1:33172] client connect
+[17:49:15.470][127.0.0.1:33174] client connect
+[17:49:15.472][127.0.0.1:33169] client connect
+[17:49:15.475][127.0.0.1:33168] client connect
+[17:49:15.479][127.0.0.1:33170] client connect
+[17:49:15.481][127.0.0.1:33171] client connect
+[17:49:15.483][127.0.0.1:33177] client connect
+[17:49:15.486][127.0.0.1:33179] client connect
+[17:49:15.488][127.0.0.1:33180] client connect
+[17:49:15.490][127.0.0.1:33181] client connect
+[17:49:15.492][127.0.0.1:33183] client connect
+[17:49:15.495][127.0.0.1:33185] client connect
+[17:49:15.497][127.0.0.1:33187] client connect
+[17:49:15.501][127.0.0.1:33186] client connect
+[17:49:15.503][127.0.0.1:33184] client connect
+[17:49:15.505][127.0.0.1:33182] client connect
+[17:49:15.508][127.0.0.1:33189] client connect
+[17:49:15.510][127.0.0.1:33188] client connect
+[17:49:15.512][127.0.0.1:33190] client connect
+[17:49:15.514][127.0.0.1:33191] client connect
+[17:49:15.517][127.0.0.1:33192] client connect
+[17:49:15.519][127.0.0.1:33194] client connect
+[17:49:15.521][127.0.0.1:33193] client connect
+[17:49:15.524][127.0.0.1:33195] client connect
+[17:49:15.526][127.0.0.1:33196] client connect
+[17:49:15.528][127.0.0.1:33197] client connect
+[17:49:15.530][127.0.0.1:33198] client connect
+[17:49:15.533][127.0.0.1:33200] client connect
+[17:49:15.535][127.0.0.1:33201] client connect
+[17:49:15.537][127.0.0.1:33205] client connect
+[17:49:15.539][127.0.0.1:33202] client connect
+[17:49:15.542][127.0.0.1:33199] client connect
+[17:49:15.544][127.0.0.1:33204] client connect
+[17:49:15.546][127.0.0.1:33207] client connect
+[17:49:15.549][127.0.0.1:33203] client connect
+[17:49:15.551][127.0.0.1:33209] client connect
+[17:49:15.553][127.0.0.1:33206] client connect
+[17:49:15.555][127.0.0.1:33208] client connect
+[17:49:15.557][127.0.0.1:33212] client connect
+[17:49:15.560][127.0.0.1:33213] client connect
+[17:49:15.562][127.0.0.1:33211] client connect
+[17:49:15.565][127.0.0.1:33210] client connect
+[17:49:15.567][127.0.0.1:33178] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.567][127.0.0.1:33167] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.568][127.0.0.1:33174] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.568][127.0.0.1:33175] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.570][127.0.0.1:33169] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.570][127.0.0.1:33164] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.571][127.0.0.1:33165] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.571][127.0.0.1:33168] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.571][127.0.0.1:33176] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.573][127.0.0.1:33166] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.573][127.0.0.1:33172] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.576][127.0.0.1:33177] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.576][127.0.0.1:33180] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.579][127.0.0.1:33173] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.580][127.0.0.1:33171] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.580][127.0.0.1:33170] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.580][127.0.0.1:33179] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.591][127.0.0.1:33184] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.592][127.0.0.1:33182] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.592][127.0.0.1:33189] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.593][127.0.0.1:33181] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.593][127.0.0.1:33183] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.593][127.0.0.1:33187] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.593][127.0.0.1:33185] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.594][127.0.0.1:33186] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.597][127.0.0.1:33190] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.602][127.0.0.1:33188] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.602][127.0.0.1:33191] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.605][127.0.0.1:33192] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.606][127.0.0.1:33194] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.609][127.0.0.1:33195] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.614][127.0.0.1:33198] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.618][127.0.0.1:33193] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.618][127.0.0.1:33197] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.619][127.0.0.1:33201] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.620][127.0.0.1:33200] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.623][127.0.0.1:33202] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.624][127.0.0.1:33205] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.627][127.0.0.1:33196] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.627][127.0.0.1:33199] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.629][127.0.0.1:33204] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.634][127.0.0.1:33203] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.635][127.0.0.1:33207] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.638][127.0.0.1:33206] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.640][127.0.0.1:33212] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.640][127.0.0.1:33213] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.644][127.0.0.1:33211] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.647][127.0.0.1:33209] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.647][127.0.0.1:33208] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:15.652][127.0.0.1:33210] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.413][127.0.0.1:33264] client connect
+[17:49:16.414][127.0.0.1:33265] client connect
+[17:49:16.415][127.0.0.1:33199] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.417][127.0.0.1:33266] client connect
+[17:49:16.418][127.0.0.1:33199] client disconnect
+[17:49:16.419][127.0.0.1:33267] client connect
+[17:49:16.421][127.0.0.1:33173] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.421][127.0.0.1:33165] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.421][127.0.0.1:33175] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.421][127.0.0.1:33268] client connect
+[17:49:16.424][127.0.0.1:33164] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.424][127.0.0.1:33171] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.424][127.0.0.1:33180] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.424][127.0.0.1:33184] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.424][127.0.0.1:33167] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.425][127.0.0.1:33206] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.425][127.0.0.1:33193] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.425][127.0.0.1:33197] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.425][127.0.0.1:33269] client connect
+[17:49:16.428][127.0.0.1:33270] client connect
+[17:49:16.429][127.0.0.1:33173] client disconnect
+[17:49:16.429][127.0.0.1:33165] client disconnect
+[17:49:16.429][127.0.0.1:33175] client disconnect
+[17:49:16.431][127.0.0.1:33271] client connect
+[17:49:16.432][127.0.0.1:33164] client disconnect
+[17:49:16.432][127.0.0.1:33171] client disconnect
+[17:49:16.432][127.0.0.1:33180] client disconnect
+[17:49:16.432][127.0.0.1:33184] client disconnect
+[17:49:16.432][127.0.0.1:33167] client disconnect
+[17:49:16.433][127.0.0.1:33206] client disconnect
+[17:49:16.433][127.0.0.1:33193] client disconnect
+[17:49:16.433][127.0.0.1:33197] client disconnect
+[17:49:16.434][127.0.0.1:33272] client connect
+[17:49:16.437][127.0.0.1:33273] client connect
+[17:49:16.439][127.0.0.1:33274] client connect
+[17:49:16.442][127.0.0.1:33202] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.442][127.0.0.1:33275] client connect
+[17:49:16.444][127.0.0.1:33276] client connect
+[17:49:16.447][127.0.0.1:33277] client connect
+[17:49:16.447][127.0.0.1:33202] client disconnect
+[17:49:16.449][127.0.0.1:33207] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.449][127.0.0.1:33278] client connect
+[17:49:16.452][127.0.0.1:33279] client connect
+[17:49:16.454][127.0.0.1:33280] client connect
+[17:49:16.455][127.0.0.1:33207] client disconnect
+[17:49:16.456][127.0.0.1:33281] client connect
+[17:49:16.458][127.0.0.1:33282] client connect
+[17:49:16.461][127.0.0.1:33174] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.461][127.0.0.1:33283] client connect
+[17:49:16.464][127.0.0.1:33166] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.464][127.0.0.1:33284] client connect
+[17:49:16.467][127.0.0.1:33285] client connect
+[17:49:16.468][127.0.0.1:33174] client disconnect
+[17:49:16.470][127.0.0.1:33288] client connect
+[17:49:16.471][127.0.0.1:33166] client disconnect
+[17:49:16.472][127.0.0.1:33286] client connect
+[17:49:16.475][127.0.0.1:33287] client connect
+[17:49:16.477][127.0.0.1:33289] client connect
+[17:49:16.479][127.0.0.1:33290] client connect
+[17:49:16.481][127.0.0.1:33291] client connect
+[17:49:16.484][127.0.0.1:33177] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.484][127.0.0.1:33292] client connect
+[17:49:16.486][127.0.0.1:33293] client connect
+[17:49:16.489][127.0.0.1:33294] client connect
+[17:49:16.490][127.0.0.1:33177] client disconnect
+[17:49:16.491][127.0.0.1:33295] client connect
+[17:49:16.494][127.0.0.1:33296] client connect
+[17:49:16.496][127.0.0.1:33297] client connect
+[17:49:16.498][127.0.0.1:33298] client connect
+[17:49:16.501][127.0.0.1:33300] client connect
+[17:49:16.503][127.0.0.1:33303] client connect
+[17:49:16.505][127.0.0.1:33264] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.505][127.0.0.1:33304] client connect
+[17:49:16.509][127.0.0.1:33305] client connect
+[17:49:16.511][127.0.0.1:33306] client connect
+[17:49:16.513][127.0.0.1:33265] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.514][127.0.0.1:33307] client connect
+[17:49:16.514][127.0.0.1:33266] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.516][127.0.0.1:33313] client connect
+[17:49:16.518][127.0.0.1:33320] client connect
+[17:49:16.521][127.0.0.1:33328] client connect
+[17:49:16.523][127.0.0.1:33330] client connect
+[17:49:16.530][127.0.0.1:33271] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.531][127.0.0.1:33272] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.531][127.0.0.1:33273] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.533][127.0.0.1:33268] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.534][127.0.0.1:33269] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.534][127.0.0.1:33270] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.534][127.0.0.1:33275] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.534][127.0.0.1:33267] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.535][127.0.0.1:33274] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.536][127.0.0.1:33278] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.538][127.0.0.1:33279] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.542][127.0.0.1:33280] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.542][127.0.0.1:33281] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.545][127.0.0.1:33282] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.547][127.0.0.1:33276] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.547][127.0.0.1:33277] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.547][127.0.0.1:33283] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.552][127.0.0.1:33284] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.553][127.0.0.1:33194] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.554][127.0.0.1:33194] client disconnect
+[17:49:16.554][127.0.0.1:33354] client connect
+[17:49:16.557][127.0.0.1:33288] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.559][127.0.0.1:33286] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.559][127.0.0.1:33287] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.560][127.0.0.1:33285] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.564][127.0.0.1:33290] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.566][127.0.0.1:33289] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.568][127.0.0.1:33356] client connect
+[17:49:16.570][127.0.0.1:33292] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.570][127.0.0.1:33291] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.572][127.0.0.1:33293] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.576][127.0.0.1:33294] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.577][127.0.0.1:33295] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.587][127.0.0.1:33300] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.588][127.0.0.1:33303] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.589][127.0.0.1:33297] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.589][127.0.0.1:33296] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.590][127.0.0.1:33298] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.592][127.0.0.1:33304] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.593][127.0.0.1:33305] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.594][127.0.0.1:33307] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.595][127.0.0.1:33313] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.596][127.0.0.1:33306] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.600][127.0.0.1:33356] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:16.604][127.0.0.1:33320] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.605][127.0.0.1:33358] client connect
+[17:49:16.608][127.0.0.1:33328] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.608][127.0.0.1:33330] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.612][127.0.0.1:33179] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.612][127.0.0.1:33360] client connect
+[17:49:16.613][127.0.0.1:33179] client disconnect
+[17:49:16.614][127.0.0.1:33187] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:16.614][127.0.0.1:33361] client connect
+[17:49:16.615][127.0.0.1:33187] client disconnect
+[17:49:16.619][127.0.0.1:33354] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.672][127.0.0.1:33358] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:16.680][127.0.0.1:33361] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:16.691][127.0.0.1:33360] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.079][127.0.0.1:33170] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.080][127.0.0.1:33356] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:17.081][127.0.0.1:33170] client disconnect
+[17:49:17.081][127.0.0.1:33364] client connect
+[17:49:17.082][127.0.0.1:33356] client disconnect
+[17:49:17.146][127.0.0.1:33364] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.247][127.0.0.1:33366] client connect
+[17:49:17.248][127.0.0.1:33367] client connect
+[17:49:17.292][127.0.0.1:33370] client connect
+[17:49:17.313][127.0.0.1:33366] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.313][127.0.0.1:33367] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.358][127.0.0.1:33370] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.417][127.0.0.1:33290] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.418][127.0.0.1:33266] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.418][127.0.0.1:33290] client disconnect
+[17:49:17.419][127.0.0.1:33372] client connect
+[17:49:17.419][127.0.0.1:33373] client connect
+[17:49:17.420][127.0.0.1:33266] client disconnect
+[17:49:17.421][127.0.0.1:33374] client connect
+[17:49:17.422][127.0.0.1:33375] client connect
+[17:49:17.423][127.0.0.1:33376] client connect
+[17:49:17.425][127.0.0.1:33377] client connect
+[17:49:17.433][127.0.0.1:33379] client connect
+[17:49:17.434][127.0.0.1:33381] client connect
+[17:49:17.436][127.0.0.1:33386] client connect
+[17:49:17.438][127.0.0.1:33387] client connect
+[17:49:17.442][127.0.0.1:33389] client connect
+[17:49:17.443][127.0.0.1:33320] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.445][127.0.0.1:33391] client connect
+[17:49:17.445][127.0.0.1:33320] client disconnect
+[17:49:17.445][127.0.0.1:33291] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.447][127.0.0.1:33291] client disconnect
+[17:49:17.449][127.0.0.1:33396] client connect
+[17:49:17.458][127.0.0.1:33398] client connect
+[17:49:17.459][127.0.0.1:33300] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.460][127.0.0.1:33300] client disconnect
+[17:49:17.461][127.0.0.1:33399] client connect
+[17:49:17.466][127.0.0.1:33402] client connect
+[17:49:17.467][127.0.0.1:33403] client connect
+[17:49:17.493][127.0.0.1:33373] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.494][127.0.0.1:33374] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.495][127.0.0.1:33372] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.495][127.0.0.1:33377] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.495][127.0.0.1:33375] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.497][127.0.0.1:33376] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.507][127.0.0.1:33379] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.507][127.0.0.1:33381] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.507][127.0.0.1:33387] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.508][127.0.0.1:33386] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.510][127.0.0.1:33391] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.513][127.0.0.1:33389] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.514][127.0.0.1:33396] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.524][127.0.0.1:33398] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.525][127.0.0.1:33399] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.533][127.0.0.1:33402] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.535][127.0.0.1:33403] server connect account.live.com:443 (20.190.190.130:443)
+[17:49:17.639][127.0.0.1:33181] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.639][127.0.0.1:33271] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.640][127.0.0.1:33181] client disconnect
+[17:49:17.640][127.0.0.1:33271] client disconnect
+[17:49:17.641][127.0.0.1:33406] client connect
+[17:49:17.707][127.0.0.1:33297] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.707][127.0.0.1:33196] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.708][127.0.0.1:33297] client disconnect
+[17:49:17.708][127.0.0.1:33196] client disconnect
+[17:49:17.708][127.0.0.1:33408] client connect
+[17:49:17.710][127.0.0.1:33406] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.731][127.0.0.1:33168] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.731][127.0.0.1:33282] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.732][127.0.0.1:33168] client disconnect
+[17:49:17.732][127.0.0.1:33282] client disconnect
+[17:49:17.732][127.0.0.1:33410] client connect
+[17:49:17.740][127.0.0.1:33267] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.740][127.0.0.1:33183] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.741][127.0.0.1:33412] client connect
+[17:49:17.741][127.0.0.1:33267] client disconnect
+[17:49:17.741][127.0.0.1:33183] client disconnect
+[17:49:17.766][127.0.0.1:33169] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.766][127.0.0.1:33313] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.767][127.0.0.1:33169] client disconnect
+[17:49:17.767][127.0.0.1:33313] client disconnect
+[17:49:17.767][127.0.0.1:33416] client connect
+[17:49:17.781][127.0.0.1:33408] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.790][127.0.0.1:33208] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.790][127.0.0.1:33269] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.791][127.0.0.1:33418] client connect
+[17:49:17.792][127.0.0.1:33208] client disconnect
+[17:49:17.792][127.0.0.1:33269] client disconnect
+[17:49:17.794][127.0.0.1:33419] client connect
+[17:49:17.794][127.0.0.1:33172] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.795][127.0.0.1:33270] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.795][127.0.0.1:33420] client connect
+[17:49:17.796][127.0.0.1:33364] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.798][127.0.0.1:33172] client disconnect
+[17:49:17.798][127.0.0.1:33270] client disconnect
+[17:49:17.800][127.0.0.1:33364] client disconnect
+[17:49:17.803][127.0.0.1:33422] client connect
+[17:49:17.803][127.0.0.1:33205] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.803][127.0.0.1:33283] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.805][127.0.0.1:33205] client disconnect
+[17:49:17.805][127.0.0.1:33283] client disconnect
+[17:49:17.808][127.0.0.1:33210] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.809][127.0.0.1:33303] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.809][127.0.0.1:33426] client connect
+[17:49:17.810][127.0.0.1:33210] client disconnect
+[17:49:17.810][127.0.0.1:33303] client disconnect
+[17:49:17.813][127.0.0.1:33410] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.814][127.0.0.1:33185] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.815][127.0.0.1:33273] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.815][127.0.0.1:33428] client connect
+[17:49:17.815][127.0.0.1:33185] client disconnect
+[17:49:17.816][127.0.0.1:33273] client disconnect
+[17:49:17.829][127.0.0.1:33412] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.832][127.0.0.1:33416] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.860][127.0.0.1:33204] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.860][127.0.0.1:33289] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.861][127.0.0.1:33430] client connect
+[17:49:17.861][127.0.0.1:33204] client disconnect
+[17:49:17.861][127.0.0.1:33289] client disconnect
+[17:49:17.864][127.0.0.1:33191] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.864][127.0.0.1:33284] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.865][127.0.0.1:33432] client connect
+[17:49:17.866][127.0.0.1:33191] client disconnect
+[17:49:17.866][127.0.0.1:33284] client disconnect
+[17:49:17.866][127.0.0.1:33419] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.867][127.0.0.1:33418] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.867][127.0.0.1:33420] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.875][127.0.0.1:33422] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.875][127.0.0.1:33426] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.897][127.0.0.1:33203] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.898][127.0.0.1:33276] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.898][127.0.0.1:33434] client connect
+[17:49:17.899][127.0.0.1:33203] client disconnect
+[17:49:17.899][127.0.0.1:33276] client disconnect
+[17:49:17.912][127.0.0.1:33428] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.925][127.0.0.1:33430] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.934][127.0.0.1:33432] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.935][127.0.0.1:33213] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.935][127.0.0.1:33268] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.936][127.0.0.1:33436] client connect
+[17:49:17.937][127.0.0.1:33213] client disconnect
+[17:49:17.937][127.0.0.1:33268] client disconnect
+[17:49:17.938][127.0.0.1:33437] client connect
+[17:49:17.938][127.0.0.1:33182] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.938][127.0.0.1:33274] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:17.940][127.0.0.1:33182] client disconnect
+[17:49:17.941][127.0.0.1:33274] client disconnect
+[17:49:17.968][127.0.0.1:33434] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:17.974][127.0.0.1:33373] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:17.974][127.0.0.1:33373] client disconnect
+[17:49:17.974][127.0.0.1:33440] client connect
+[17:49:18.010][127.0.0.1:33437] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.011][127.0.0.1:33209] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.011][127.0.0.1:33279] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.012][127.0.0.1:33209] client disconnect
+[17:49:18.012][127.0.0.1:33279] client disconnect
+[17:49:18.012][127.0.0.1:33442] client connect
+[17:49:18.026][127.0.0.1:33389] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.026][127.0.0.1:33389] client disconnect
+[17:49:18.027][127.0.0.1:33444] client connect
+[17:49:18.027][127.0.0.1:33372] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.027][127.0.0.1:33445] client connect
+[17:49:18.029][127.0.0.1:33372] client disconnect
+[17:49:18.031][127.0.0.1:33446] client connect
+[17:49:18.031][127.0.0.1:33399] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.033][127.0.0.1:33399] client disconnect
+[17:49:18.036][127.0.0.1:33436] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.037][127.0.0.1:33186] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.037][127.0.0.1:33275] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.038][127.0.0.1:33186] client disconnect
+[17:49:18.038][127.0.0.1:33450] client connect
+[17:49:18.038][127.0.0.1:33275] client disconnect
+[17:49:18.040][127.0.0.1:33440] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.042][127.0.0.1:33200] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.043][127.0.0.1:33286] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.043][127.0.0.1:33452] client connect
+[17:49:18.044][127.0.0.1:33200] client disconnect
+[17:49:18.044][127.0.0.1:33286] client disconnect
+[17:49:18.067][127.0.0.1:33212] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.067][127.0.0.1:33305] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.068][127.0.0.1:33212] client disconnect
+[17:49:18.068][127.0.0.1:33305] client disconnect
+[17:49:18.068][127.0.0.1:33454] client connect
+[17:49:18.085][127.0.0.1:33442] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.086][127.0.0.1:33176] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.086][127.0.0.1:33307] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.087][127.0.0.1:33456] client connect
+[17:49:18.087][127.0.0.1:33176] client disconnect
+[17:49:18.088][127.0.0.1:33307] client disconnect
+[17:49:18.088][127.0.0.1:33457] client connect
+[17:49:18.089][127.0.0.1:33211] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.089][127.0.0.1:33278] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.091][127.0.0.1:33211] client disconnect
+[17:49:18.091][127.0.0.1:33278] client disconnect
+[17:49:18.095][127.0.0.1:33444] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.096][127.0.0.1:33445] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.098][127.0.0.1:33446] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.107][127.0.0.1:33450] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.108][127.0.0.1:33452] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.132][127.0.0.1:33454] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.155][127.0.0.1:33456] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.160][127.0.0.1:33457] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.169][127.0.0.1:33189] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.169][127.0.0.1:33298] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.170][127.0.0.1:33189] client disconnect
+[17:49:18.170][127.0.0.1:33298] client disconnect
+[17:49:18.170][127.0.0.1:33460] client connect
+[17:49:18.193][127.0.0.1:33201] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.193][127.0.0.1:33272] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.194][127.0.0.1:33201] client disconnect
+[17:49:18.194][127.0.0.1:33272] client disconnect
+[17:49:18.195][127.0.0.1:33462] client connect
+[17:49:18.239][127.0.0.1:33460] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.261][127.0.0.1:33391] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.261][127.0.0.1:33391] client disconnect
+[17:49:18.262][127.0.0.1:33464] client connect
+[17:49:18.263][127.0.0.1:33462] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.340][127.0.0.1:33464] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.341][127.0.0.1:33466] client connect
+[17:49:18.350][127.0.0.1:33467] client connect
+[17:49:18.367][127.0.0.1:33416] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.369][127.0.0.1:33416] client disconnect
+[17:49:18.369][127.0.0.1:33470] client connect
+[17:49:18.382][127.0.0.1:33472] client connect
+[17:49:18.417][127.0.0.1:33420] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.418][127.0.0.1:33420] client disconnect
+[17:49:18.418][127.0.0.1:33474] client connect
+[17:49:18.421][127.0.0.1:33466] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.422][127.0.0.1:33467] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.435][127.0.0.1:33470] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.441][127.0.0.1:33418] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.442][127.0.0.1:33418] client disconnect
+[17:49:18.442][127.0.0.1:33476] client connect
+[17:49:18.444][127.0.0.1:33477] client connect
+[17:49:18.445][127.0.0.1:33192] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.445][127.0.0.1:33358] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.447][127.0.0.1:33192] client disconnect
+[17:49:18.448][127.0.0.1:33358] client disconnect
+[17:49:18.448][127.0.0.1:33478] client connect
+[17:49:18.449][127.0.0.1:33472] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.451][127.0.0.1:33480] client connect
+[17:49:18.452][127.0.0.1:33188] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.453][127.0.0.1:33277] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.453][127.0.0.1:33481] client connect
+[17:49:18.455][127.0.0.1:33422] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.457][127.0.0.1:33188] client disconnect
+[17:49:18.457][127.0.0.1:33277] client disconnect
+[17:49:18.458][127.0.0.1:33422] client disconnect
+[17:49:18.459][127.0.0.1:33483] client connect
+[17:49:18.463][127.0.0.1:33487] client connect
+[17:49:18.469][127.0.0.1:33490] client connect
+[17:49:18.473][127.0.0.1:33483] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:18.473][127.0.0.1:33492] client connect
+[17:49:18.484][127.0.0.1:33474] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.497][127.0.0.1:33494] client connect
+[17:49:18.510][127.0.0.1:33476] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.514][127.0.0.1:33477] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.521][127.0.0.1:33478] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.523][127.0.0.1:33480] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.523][127.0.0.1:33481] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.528][127.0.0.1:33487] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.538][127.0.0.1:33490] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.541][127.0.0.1:33492] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.554][127.0.0.1:33361] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.554][127.0.0.1:33379] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.555][127.0.0.1:33496] client connect
+[17:49:18.555][127.0.0.1:33361] client disconnect
+[17:49:18.555][127.0.0.1:33379] client disconnect
+[17:49:18.560][127.0.0.1:33498] client connect
+[17:49:18.563][127.0.0.1:33265] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.563][127.0.0.1:33367] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.564][127.0.0.1:33500] client connect
+[17:49:18.564][127.0.0.1:33265] client disconnect
+[17:49:18.564][127.0.0.1:33367] client disconnect
+[17:49:18.566][127.0.0.1:33494] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.569][127.0.0.1:33502] client connect
+[17:49:18.572][127.0.0.1:33190] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.572][127.0.0.1:33328] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.573][127.0.0.1:33504] client connect
+[17:49:18.573][127.0.0.1:33190] client disconnect
+[17:49:18.573][127.0.0.1:33328] client disconnect
+[17:49:18.619][127.0.0.1:33496] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.626][127.0.0.1:33498] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.629][127.0.0.1:33500] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.636][127.0.0.1:33502] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.690][127.0.0.1:33505] client connect
+[17:49:18.694][127.0.0.1:33506] client connect
+[17:49:18.696][127.0.0.1:33507] client connect
+[17:49:18.697][127.0.0.1:33304] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.697][127.0.0.1:33387] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.697][127.0.0.1:33280] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.697][127.0.0.1:33374] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.698][127.0.0.1:33437] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.698][127.0.0.1:33306] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.698][127.0.0.1:33375] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.700][127.0.0.1:33360] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.701][127.0.0.1:33377] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.701][127.0.0.1:33508] client connect
+[17:49:18.703][127.0.0.1:33287] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.703][127.0.0.1:33370] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.703][127.0.0.1:33509] client connect
+[17:49:18.704][127.0.0.1:33304] client disconnect
+[17:49:18.704][127.0.0.1:33387] client disconnect
+[17:49:18.705][127.0.0.1:33280] client disconnect
+[17:49:18.705][127.0.0.1:33374] client disconnect
+[17:49:18.705][127.0.0.1:33437] client disconnect
+[17:49:18.705][127.0.0.1:33306] client disconnect
+[17:49:18.705][127.0.0.1:33375] client disconnect
+[17:49:18.706][127.0.0.1:33510] client connect
+[17:49:18.708][127.0.0.1:33360] client disconnect
+[17:49:18.708][127.0.0.1:33377] client disconnect
+[17:49:18.709][127.0.0.1:33511] client connect
+[17:49:18.710][127.0.0.1:33287] client disconnect
+[17:49:18.710][127.0.0.1:33370] client disconnect
+[17:49:18.711][127.0.0.1:33513] client connect
+[17:49:18.714][127.0.0.1:33514] client connect
+[17:49:18.716][127.0.0.1:33515] client connect
+[17:49:18.718][127.0.0.1:33516] client connect
+[17:49:18.722][127.0.0.1:33518] client connect
+[17:49:18.733][127.0.0.1:33505] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:18.746][127.0.0.1:33530] client connect
+[17:49:18.777][127.0.0.1:33504] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.781][127.0.0.1:33506] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.783][127.0.0.1:33507] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.786][127.0.0.1:33508] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.789][127.0.0.1:33509] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.789][127.0.0.1:33510] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.789][127.0.0.1:33511] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.791][127.0.0.1:33518] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.791][127.0.0.1:33516] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.792][127.0.0.1:33514] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.793][127.0.0.1:33532] client connect
+[17:49:18.795][127.0.0.1:33513] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.796][127.0.0.1:33533] client connect
+[17:49:18.797][127.0.0.1:33296] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.797][127.0.0.1:33396] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.798][127.0.0.1:33296] client disconnect
+[17:49:18.799][127.0.0.1:33396] client disconnect
+[17:49:18.804][127.0.0.1:33515] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.813][127.0.0.1:33530] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.827][127.0.0.1:33285] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.827][127.0.0.1:33398] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.828][127.0.0.1:33536] client connect
+[17:49:18.828][127.0.0.1:33285] client disconnect
+[17:49:18.828][127.0.0.1:33398] client disconnect
+[17:49:18.832][127.0.0.1:33538] client connect
+[17:49:18.868][127.0.0.1:33532] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.868][127.0.0.1:33533] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.877][127.0.0.1:33460] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.878][127.0.0.1:33460] client disconnect
+[17:49:18.878][127.0.0.1:33540] client connect
+[17:49:18.880][127.0.0.1:33541] client connect
+[17:49:18.883][127.0.0.1:33354] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.884][127.0.0.1:33381] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.884][127.0.0.1:33543] client connect
+[17:49:18.885][127.0.0.1:33354] client disconnect
+[17:49:18.885][127.0.0.1:33381] client disconnect
+[17:49:18.889][127.0.0.1:33195] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.889][127.0.0.1:33288] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.890][127.0.0.1:33546] client connect
+[17:49:18.891][127.0.0.1:33195] client disconnect
+[17:49:18.891][127.0.0.1:33288] client disconnect
+[17:49:18.892][127.0.0.1:33547] client connect
+[17:49:18.892][127.0.0.1:33292] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.893][127.0.0.1:33403] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.894][127.0.0.1:33292] client disconnect
+[17:49:18.894][127.0.0.1:33403] client disconnect
+[17:49:18.896][127.0.0.1:33536] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.897][127.0.0.1:33538] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.898][127.0.0.1:33550] client connect
+[17:49:18.901][127.0.0.1:33293] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.901][127.0.0.1:33551] client connect
+[17:49:18.902][127.0.0.1:33402] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:18.902][127.0.0.1:33293] client disconnect
+[17:49:18.903][127.0.0.1:33402] client disconnect
+[17:49:18.907][127.0.0.1:33554] client connect
+[17:49:18.911][127.0.0.1:33464] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:18.912][127.0.0.1:33464] client disconnect
+[17:49:18.912][127.0.0.1:33556] client connect
+[17:49:18.943][127.0.0.1:33554] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:18.945][127.0.0.1:33541] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.949][127.0.0.1:33540] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.949][127.0.0.1:33543] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.965][127.0.0.1:33550] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:18.975][127.0.0.1:33547] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.975][127.0.0.1:33546] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.976][127.0.0.1:33551] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:18.980][127.0.0.1:33556] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.001][127.0.0.1:33558] client connect
+[17:49:19.013][127.0.0.1:33462] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.014][127.0.0.1:33462] client disconnect
+[17:49:19.014][127.0.0.1:33560] client connect
+[17:49:19.030][127.0.0.1:33476] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.031][127.0.0.1:33476] client disconnect
+[17:49:19.031][127.0.0.1:33562] client connect
+[17:49:19.070][127.0.0.1:33558] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.077][127.0.0.1:33295] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.077][127.0.0.1:33376] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:19.078][127.0.0.1:33295] client disconnect
+[17:49:19.078][127.0.0.1:33564] client connect
+[17:49:19.078][127.0.0.1:33376] client disconnect
+[17:49:19.080][127.0.0.1:33560] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.095][127.0.0.1:33562] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.102][127.0.0.1:33566] client connect
+[17:49:19.122][127.0.0.1:33481] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.122][127.0.0.1:33481] client disconnect
+[17:49:19.123][127.0.0.1:33568] client connect
+[17:49:19.143][127.0.0.1:33564] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.169][127.0.0.1:33566] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.187][127.0.0.1:33568] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.201][127.0.0.1:33570] client connect
+[17:49:19.203][127.0.0.1:33477] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.204][127.0.0.1:33477] client disconnect
+[17:49:19.204][127.0.0.1:33571] client connect
+[17:49:19.265][127.0.0.1:33570] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.270][127.0.0.1:33571] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.339][127.0.0.1:33574] client connect
+[17:49:19.341][127.0.0.1:33575] client connect
+[17:49:19.341][127.0.0.1:33554] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:19.342][127.0.0.1:33445] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.343][127.0.0.1:33576] client connect
+[17:49:19.343][127.0.0.1:33533] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.345][127.0.0.1:33577] client connect
+[17:49:19.345][127.0.0.1:33554] client disconnect
+[17:49:19.346][127.0.0.1:33578] client connect
+[17:49:19.347][127.0.0.1:33445] client disconnect
+[17:49:19.348][127.0.0.1:33533] client disconnect
+[17:49:19.348][127.0.0.1:33579] client connect
+[17:49:19.393][127.0.0.1:33586] client connect
+[17:49:19.394][127.0.0.1:33587] client connect
+[17:49:19.416][127.0.0.1:33575] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.417][127.0.0.1:33578] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.419][127.0.0.1:33577] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.419][127.0.0.1:33574] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.420][127.0.0.1:33579] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.420][127.0.0.1:33576] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.442][127.0.0.1:33536] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.443][127.0.0.1:33536] client disconnect
+[17:49:19.443][127.0.0.1:33590] client connect
+[17:49:19.447][127.0.0.1:33592] client connect
+[17:49:19.460][127.0.0.1:33587] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.463][127.0.0.1:33586] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.507][127.0.0.1:33590] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.512][127.0.0.1:33592] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.525][127.0.0.1:33281] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:19.525][127.0.0.1:33198] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.526][127.0.0.1:33594] client connect
+[17:49:19.526][127.0.0.1:33483] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:19.527][127.0.0.1:33281] client disconnect
+[17:49:19.527][127.0.0.1:33198] client disconnect
+[17:49:19.528][127.0.0.1:33483] client disconnect
+[17:49:19.533][127.0.0.1:33546] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.534][127.0.0.1:33546] client disconnect
+[17:49:19.534][127.0.0.1:33596] client connect
+[17:49:19.542][127.0.0.1:33294] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.542][127.0.0.1:33386] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:19.543][127.0.0.1:33598] client connect
+[17:49:19.544][127.0.0.1:33294] client disconnect
+[17:49:19.544][127.0.0.1:33386] client disconnect
+[17:49:19.545][127.0.0.1:33599] client connect
+[17:49:19.553][127.0.0.1:33504] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.553][127.0.0.1:33504] client disconnect
+[17:49:19.553][127.0.0.1:33602] client connect
+[17:49:19.570][127.0.0.1:33513] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.571][127.0.0.1:33513] client disconnect
+[17:49:19.571][127.0.0.1:33604] client connect
+[17:49:19.591][127.0.0.1:33594] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.598][127.0.0.1:33596] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.610][127.0.0.1:33606] client connect
+[17:49:19.613][127.0.0.1:33599] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.616][127.0.0.1:33551] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.617][127.0.0.1:33551] client disconnect
+[17:49:19.617][127.0.0.1:33608] client connect
+[17:49:19.619][127.0.0.1:33602] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.621][127.0.0.1:33598] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.646][127.0.0.1:33408] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.647][127.0.0.1:33466] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.647][127.0.0.1:33610] client connect
+[17:49:19.648][127.0.0.1:33408] client disconnect
+[17:49:19.648][127.0.0.1:33466] client disconnect
+[17:49:19.649][127.0.0.1:33604] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.651][127.0.0.1:33611] client connect
+[17:49:19.651][127.0.0.1:33330] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:19.651][127.0.0.1:33178] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.653][127.0.0.1:33505] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:19.654][127.0.0.1:33612] client connect
+[17:49:19.654][127.0.0.1:33543] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.655][127.0.0.1:33330] client disconnect
+[17:49:19.655][127.0.0.1:33178] client disconnect
+[17:49:19.656][127.0.0.1:33505] client disconnect
+[17:49:19.657][127.0.0.1:33543] client disconnect
+[17:49:19.672][127.0.0.1:33410] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.672][127.0.0.1:33487] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.673][127.0.0.1:33616] client connect
+[17:49:19.673][127.0.0.1:33410] client disconnect
+[17:49:19.673][127.0.0.1:33487] client disconnect
+[17:49:19.678][127.0.0.1:33547] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.679][127.0.0.1:33547] client disconnect
+[17:49:19.679][127.0.0.1:33618] client connect
+[17:49:19.679][127.0.0.1:33606] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.681][127.0.0.1:33608] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.686][127.0.0.1:33406] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.686][127.0.0.1:33467] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.687][127.0.0.1:33620] client connect
+[17:49:19.687][127.0.0.1:33406] client disconnect
+[17:49:19.687][127.0.0.1:33467] client disconnect
+[17:49:19.703][127.0.0.1:33622] client connect
+[17:49:19.705][127.0.0.1:33624] client connect
+[17:49:19.713][127.0.0.1:33560] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.713][127.0.0.1:33560] client disconnect
+[17:49:19.714][127.0.0.1:33626] client connect
+[17:49:19.717][127.0.0.1:33610] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.721][127.0.0.1:33611] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.725][127.0.0.1:33612] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.731][127.0.0.1:33452] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.731][127.0.0.1:33502] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.732][127.0.0.1:33628] client connect
+[17:49:19.732][127.0.0.1:33452] client disconnect
+[17:49:19.732][127.0.0.1:33502] client disconnect
+[17:49:19.740][127.0.0.1:33616] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.744][127.0.0.1:33618] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.754][127.0.0.1:33620] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.763][127.0.0.1:33630] client connect
+[17:49:19.767][127.0.0.1:33622] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.769][127.0.0.1:33624] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.773][127.0.0.1:33426] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.773][127.0.0.1:33472] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.774][127.0.0.1:33632] client connect
+[17:49:19.774][127.0.0.1:33426] client disconnect
+[17:49:19.774][127.0.0.1:33472] client disconnect
+[17:49:19.787][127.0.0.1:33626] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.797][127.0.0.1:33628] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.827][127.0.0.1:33630] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:19.844][127.0.0.1:33511] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.845][127.0.0.1:33434] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.846][127.0.0.1:33634] client connect
+[17:49:19.846][127.0.0.1:33511] client disconnect
+[17:49:19.846][127.0.0.1:33434] client disconnect
+[17:49:19.855][127.0.0.1:33632] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.911][127.0.0.1:33634] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:19.980][127.0.0.1:33636] client connect
+[17:49:19.980][127.0.0.1:33576] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.980][127.0.0.1:33430] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.981][127.0.0.1:33637] client connect
+[17:49:19.982][127.0.0.1:33494] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.982][127.0.0.1:33456] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.982][127.0.0.1:33541] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.984][127.0.0.1:33638] client connect
+[17:49:19.985][127.0.0.1:33576] client disconnect
+[17:49:19.985][127.0.0.1:33430] client disconnect
+[17:49:19.986][127.0.0.1:33446] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.986][127.0.0.1:33507] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:19.987][127.0.0.1:33574] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:19.987][127.0.0.1:33639] client connect
+[17:49:19.988][127.0.0.1:33494] client disconnect
+[17:49:19.988][127.0.0.1:33456] client disconnect
+[17:49:19.988][127.0.0.1:33541] client disconnect
+[17:49:19.989][127.0.0.1:33640] client connect
+[17:49:19.991][127.0.0.1:33641] client connect
+[17:49:19.992][127.0.0.1:33446] client disconnect
+[17:49:19.992][127.0.0.1:33507] client disconnect
+[17:49:19.992][127.0.0.1:33574] client disconnect
+[17:49:20.059][127.0.0.1:33636] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.060][127.0.0.1:33640] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.061][127.0.0.1:33641] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.062][127.0.0.1:33639] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.062][127.0.0.1:33637] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.069][127.0.0.1:33638] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.149][127.0.0.1:33428] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.149][127.0.0.1:33478] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.150][127.0.0.1:33648] client connect
+[17:49:20.151][127.0.0.1:33649] client connect
+[17:49:20.151][127.0.0.1:33428] client disconnect
+[17:49:20.151][127.0.0.1:33478] client disconnect
+[17:49:20.179][127.0.0.1:33444] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.179][127.0.0.1:33518] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.180][127.0.0.1:33653] client connect
+[17:49:20.180][127.0.0.1:33444] client disconnect
+[17:49:20.180][127.0.0.1:33518] client disconnect
+[17:49:20.217][127.0.0.1:33649] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.220][127.0.0.1:33648] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.246][127.0.0.1:33653] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.315][127.0.0.1:33655] client connect
+[17:49:20.316][127.0.0.1:33612] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.317][127.0.0.1:33656] client connect
+[17:49:20.319][127.0.0.1:33657] client connect
+[17:49:20.319][127.0.0.1:33612] client disconnect
+[17:49:20.342][127.0.0.1:33661] client connect
+[17:49:20.364][127.0.0.1:33663] client connect
+[17:49:20.388][127.0.0.1:33655] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.390][127.0.0.1:33656] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.391][127.0.0.1:33657] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.395][127.0.0.1:33665] client connect
+[17:49:20.406][127.0.0.1:33661] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.413][127.0.0.1:33450] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.414][127.0.0.1:33532] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.414][127.0.0.1:33667] client connect
+[17:49:20.415][127.0.0.1:33450] client disconnect
+[17:49:20.415][127.0.0.1:33532] client disconnect
+[17:49:20.417][127.0.0.1:33412] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.418][127.0.0.1:33490] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.419][127.0.0.1:33668] client connect
+[17:49:20.420][127.0.0.1:33412] client disconnect
+[17:49:20.420][127.0.0.1:33490] client disconnect
+[17:49:20.421][127.0.0.1:33669] client connect
+[17:49:20.421][127.0.0.1:33442] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.422][127.0.0.1:33530] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.423][127.0.0.1:33442] client disconnect
+[17:49:20.424][127.0.0.1:33530] client disconnect
+[17:49:20.427][127.0.0.1:33673] client connect
+[17:49:20.429][127.0.0.1:33663] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.442][127.0.0.1:33626] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.443][127.0.0.1:33626] client disconnect
+[17:49:20.443][127.0.0.1:33675] client connect
+[17:49:20.446][127.0.0.1:33676] client connect
+[17:49:20.448][127.0.0.1:33678] client connect
+[17:49:20.450][127.0.0.1:33679] client connect
+[17:49:20.451][127.0.0.1:33454] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.451][127.0.0.1:33538] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.453][127.0.0.1:33454] client disconnect
+[17:49:20.453][127.0.0.1:33538] client disconnect
+[17:49:20.460][127.0.0.1:33620] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.460][127.0.0.1:33620] client disconnect
+[17:49:20.461][127.0.0.1:33683] client connect
+[17:49:20.462][127.0.0.1:33665] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.482][127.0.0.1:33667] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.483][127.0.0.1:33432] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.484][127.0.0.1:33516] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.484][127.0.0.1:33685] client connect
+[17:49:20.485][127.0.0.1:33432] client disconnect
+[17:49:20.485][127.0.0.1:33516] client disconnect
+[17:49:20.488][127.0.0.1:33668] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.490][127.0.0.1:33669] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.491][127.0.0.1:33673] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.498][127.0.0.1:33687] client connect
+[17:49:20.511][127.0.0.1:33676] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.516][127.0.0.1:33678] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.517][127.0.0.1:33679] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.519][127.0.0.1:33675] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.542][127.0.0.1:33689] client connect
+[17:49:20.547][127.0.0.1:33683] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.548][127.0.0.1:33634] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.549][127.0.0.1:33634] client disconnect
+[17:49:20.549][127.0.0.1:33691] client connect
+[17:49:20.554][127.0.0.1:33685] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.557][127.0.0.1:33693] client connect
+[17:49:20.565][127.0.0.1:33687] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.574][127.0.0.1:33436] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.574][127.0.0.1:33514] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.575][127.0.0.1:33436] client disconnect
+[17:49:20.575][127.0.0.1:33695] client connect
+[17:49:20.576][127.0.0.1:33514] client disconnect
+[17:49:20.578][127.0.0.1:33696] client connect
+[17:49:20.583][127.0.0.1:33470] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.584][127.0.0.1:33558] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.585][127.0.0.1:33699] client connect
+[17:49:20.585][127.0.0.1:33470] client disconnect
+[17:49:20.585][127.0.0.1:33558] client disconnect
+[17:49:20.593][127.0.0.1:33457] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.594][127.0.0.1:33550] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.594][127.0.0.1:33701] client connect
+[17:49:20.595][127.0.0.1:33457] client disconnect
+[17:49:20.595][127.0.0.1:33550] client disconnect
+[17:49:20.598][127.0.0.1:33474] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.598][127.0.0.1:33566] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.599][127.0.0.1:33702] client connect
+[17:49:20.599][127.0.0.1:33474] client disconnect
+[17:49:20.600][127.0.0.1:33566] client disconnect
+[17:49:20.607][127.0.0.1:33689] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.618][127.0.0.1:33691] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.621][127.0.0.1:33693] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.645][127.0.0.1:33695] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.646][127.0.0.1:33696] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.650][127.0.0.1:33636] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.651][127.0.0.1:33636] client disconnect
+[17:49:20.651][127.0.0.1:33705] client connect
+[17:49:20.655][127.0.0.1:33699] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.660][127.0.0.1:33701] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.663][127.0.0.1:33702] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.673][127.0.0.1:33639] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.674][127.0.0.1:33639] client disconnect
+[17:49:20.674][127.0.0.1:33707] client connect
+[17:49:20.678][127.0.0.1:33500] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.678][127.0.0.1:33570] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.679][127.0.0.1:33709] client connect
+[17:49:20.679][127.0.0.1:33500] client disconnect
+[17:49:20.680][127.0.0.1:33570] client disconnect
+[17:49:20.716][127.0.0.1:33705] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.717][127.0.0.1:33637] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.718][127.0.0.1:33637] client disconnect
+[17:49:20.718][127.0.0.1:33711] client connect
+[17:49:20.724][127.0.0.1:33509] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.724][127.0.0.1:33579] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.725][127.0.0.1:33515] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.725][127.0.0.1:33592] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.726][127.0.0.1:33713] client connect
+[17:49:20.726][127.0.0.1:33509] client disconnect
+[17:49:20.726][127.0.0.1:33579] client disconnect
+[17:49:20.727][127.0.0.1:33714] client connect
+[17:49:20.727][127.0.0.1:33515] client disconnect
+[17:49:20.728][127.0.0.1:33592] client disconnect
+[17:49:20.738][127.0.0.1:33496] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.738][127.0.0.1:33575] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.739][127.0.0.1:33496] client disconnect
+[17:49:20.739][127.0.0.1:33575] client disconnect
+[17:49:20.739][127.0.0.1:33717] client connect
+[17:49:20.742][127.0.0.1:33707] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.750][127.0.0.1:33709] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.753][127.0.0.1:33440] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.753][127.0.0.1:33498] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.754][127.0.0.1:33719] client connect
+[17:49:20.754][127.0.0.1:33440] client disconnect
+[17:49:20.754][127.0.0.1:33498] client disconnect
+[17:49:20.761][127.0.0.1:33638] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.762][127.0.0.1:33638] client disconnect
+[17:49:20.762][127.0.0.1:33721] client connect
+[17:49:20.778][127.0.0.1:33641] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.778][127.0.0.1:33641] client disconnect
+[17:49:20.778][127.0.0.1:33723] client connect
+[17:49:20.782][127.0.0.1:33711] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.783][127.0.0.1:33510] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.783][127.0.0.1:33587] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:20.784][127.0.0.1:33725] client connect
+[17:49:20.784][127.0.0.1:33510] client disconnect
+[17:49:20.785][127.0.0.1:33587] client disconnect
+[17:49:20.793][127.0.0.1:33727] client connect
+[17:49:20.799][127.0.0.1:33713] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.800][127.0.0.1:33714] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.813][127.0.0.1:33717] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.819][127.0.0.1:33719] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.827][127.0.0.1:33721] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.846][127.0.0.1:33723] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.848][127.0.0.1:33653] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.849][127.0.0.1:33653] client disconnect
+[17:49:20.849][127.0.0.1:33729] client connect
+[17:49:20.858][127.0.0.1:33725] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.878][127.0.0.1:33727] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:20.914][127.0.0.1:33729] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:20.934][127.0.0.1:33667] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.934][127.0.0.1:33667] client disconnect
+[17:49:20.935][127.0.0.1:33731] client connect
+[17:49:20.965][127.0.0.1:33669] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.966][127.0.0.1:33669] client disconnect
+[17:49:20.966][127.0.0.1:33733] client connect
+[17:49:20.980][127.0.0.1:33668] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.981][127.0.0.1:33668] client disconnect
+[17:49:20.981][127.0.0.1:33735] client connect
+[17:49:20.985][127.0.0.1:33655] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:20.985][127.0.0.1:33655] client disconnect
+[17:49:20.985][127.0.0.1:33737] client connect
+[17:49:20.999][127.0.0.1:33731] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.041][127.0.0.1:33739] client connect
+[17:49:21.046][127.0.0.1:33735] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.048][127.0.0.1:33733] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.050][127.0.0.1:33737] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.112][127.0.0.1:33739] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.144][127.0.0.1:33683] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.145][127.0.0.1:33683] client disconnect
+[17:49:21.145][127.0.0.1:33741] client connect
+[17:49:21.169][127.0.0.1:33743] client connect
+[17:49:21.171][127.0.0.1:33744] client connect
+[17:49:21.171][127.0.0.1:33562] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.171][127.0.0.1:33624] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.172][127.0.0.1:33562] client disconnect
+[17:49:21.173][127.0.0.1:33624] client disconnect
+[17:49:21.177][127.0.0.1:33747] client connect
+[17:49:21.180][127.0.0.1:33675] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.180][127.0.0.1:33675] client disconnect
+[17:49:21.181][127.0.0.1:33748] client connect
+[17:49:21.187][127.0.0.1:33699] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.188][127.0.0.1:33699] client disconnect
+[17:49:21.188][127.0.0.1:33751] client connect
+[17:49:21.209][127.0.0.1:33741] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.210][127.0.0.1:33753] client connect
+[17:49:21.215][127.0.0.1:33691] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.215][127.0.0.1:33691] client disconnect
+[17:49:21.216][127.0.0.1:33755] client connect
+[17:49:21.218][127.0.0.1:33506] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.218][127.0.0.1:33586] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.219][127.0.0.1:33756] client connect
+[17:49:21.219][127.0.0.1:33506] client disconnect
+[17:49:21.219][127.0.0.1:33586] client disconnect
+[17:49:21.223][127.0.0.1:33759] client connect
+[17:49:21.229][127.0.0.1:33599] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.229][127.0.0.1:33540] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.230][127.0.0.1:33761] client connect
+[17:49:21.230][127.0.0.1:33599] client disconnect
+[17:49:21.231][127.0.0.1:33540] client disconnect
+[17:49:21.242][127.0.0.1:33747] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.245][127.0.0.1:33763] client connect
+[17:49:21.246][127.0.0.1:33748] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.247][127.0.0.1:33744] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.252][127.0.0.1:33743] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.253][127.0.0.1:33480] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.254][127.0.0.1:33577] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.254][127.0.0.1:33764] client connect
+[17:49:21.255][127.0.0.1:33480] client disconnect
+[17:49:21.255][127.0.0.1:33577] client disconnect
+[17:49:21.272][127.0.0.1:33751] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.274][127.0.0.1:33763] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:21.275][127.0.0.1:33753] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.281][127.0.0.1:33767] client connect
+[17:49:21.284][127.0.0.1:33756] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.285][127.0.0.1:33755] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.287][127.0.0.1:33759] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.301][127.0.0.1:33705] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.302][127.0.0.1:33705] client disconnect
+[17:49:21.302][127.0.0.1:33769] client connect
+[17:49:21.304][127.0.0.1:33761] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.305][127.0.0.1:33767] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:21.322][127.0.0.1:33764] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.329][127.0.0.1:33771] client connect
+[17:49:21.337][127.0.0.1:33773] client connect
+[17:49:21.340][127.0.0.1:33622] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.340][127.0.0.1:33564] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.341][127.0.0.1:33622] client disconnect
+[17:49:21.341][127.0.0.1:33775] client connect
+[17:49:21.342][127.0.0.1:33564] client disconnect
+[17:49:21.355][127.0.0.1:33568] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.355][127.0.0.1:33630] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.356][127.0.0.1:33777] client connect
+[17:49:21.356][127.0.0.1:33568] client disconnect
+[17:49:21.356][127.0.0.1:33630] client disconnect
+[17:49:21.360][127.0.0.1:33711] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.360][127.0.0.1:33778] client connect
+[17:49:21.360][127.0.0.1:33711] client disconnect
+[17:49:21.365][127.0.0.1:33781] client connect
+[17:49:21.367][127.0.0.1:33769] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.396][127.0.0.1:33771] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.398][127.0.0.1:33783] client connect
+[17:49:21.400][127.0.0.1:33663] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.400][127.0.0.1:33604] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.402][127.0.0.1:33784] client connect
+[17:49:21.402][127.0.0.1:33663] client disconnect
+[17:49:21.402][127.0.0.1:33604] client disconnect
+[17:49:21.406][127.0.0.1:33773] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.406][127.0.0.1:33775] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.408][127.0.0.1:33787] client connect
+[17:49:21.410][127.0.0.1:33606] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.410][127.0.0.1:33556] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.411][127.0.0.1:33788] client connect
+[17:49:21.412][127.0.0.1:33606] client disconnect
+[17:49:21.412][127.0.0.1:33556] client disconnect
+[17:49:21.422][127.0.0.1:33777] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.425][127.0.0.1:33778] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.428][127.0.0.1:33781] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.445][127.0.0.1:33791] client connect
+[17:49:21.465][127.0.0.1:33783] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.471][127.0.0.1:33784] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.475][127.0.0.1:33793] client connect
+[17:49:21.476][127.0.0.1:33788] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.477][127.0.0.1:33787] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.485][127.0.0.1:33795] client connect
+[17:49:21.511][127.0.0.1:33791] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.514][127.0.0.1:33719] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.514][127.0.0.1:33719] client disconnect
+[17:49:21.514][127.0.0.1:33797] client connect
+[17:49:21.527][127.0.0.1:33799] client connect
+[17:49:21.532][127.0.0.1:33571] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.533][127.0.0.1:33640] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.533][127.0.0.1:33801] client connect
+[17:49:21.534][127.0.0.1:33571] client disconnect
+[17:49:21.534][127.0.0.1:33640] client disconnect
+[17:49:21.543][127.0.0.1:33793] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.549][127.0.0.1:33795] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.578][127.0.0.1:33797] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.589][127.0.0.1:33803] client connect
+[17:49:21.592][127.0.0.1:33799] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.599][127.0.0.1:33801] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.615][127.0.0.1:33657] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.615][127.0.0.1:33598] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.616][127.0.0.1:33657] client disconnect
+[17:49:21.616][127.0.0.1:33598] client disconnect
+[17:49:21.616][127.0.0.1:33805] client connect
+[17:49:21.626][127.0.0.1:33807] client connect
+[17:49:21.642][127.0.0.1:33611] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.643][127.0.0.1:33665] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.643][127.0.0.1:33809] client connect
+[17:49:21.643][127.0.0.1:33611] client disconnect
+[17:49:21.644][127.0.0.1:33665] client disconnect
+[17:49:21.648][127.0.0.1:33811] client connect
+[17:49:21.657][127.0.0.1:33803] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.674][127.0.0.1:33618] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.675][127.0.0.1:33687] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.675][127.0.0.1:33813] client connect
+[17:49:21.676][127.0.0.1:33618] client disconnect
+[17:49:21.676][127.0.0.1:33687] client disconnect
+[17:49:21.686][127.0.0.1:33805] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.694][127.0.0.1:33807] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.713][127.0.0.1:33809] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.715][127.0.0.1:33661] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.715][127.0.0.1:33594] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.716][127.0.0.1:33815] client connect
+[17:49:21.716][127.0.0.1:33661] client disconnect
+[17:49:21.716][127.0.0.1:33594] client disconnect
+[17:49:21.723][127.0.0.1:33811] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.724][127.0.0.1:33817] client connect
+[17:49:21.727][127.0.0.1:33818] client connect
+[17:49:21.744][127.0.0.1:33813] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.770][127.0.0.1:33602] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.770][127.0.0.1:33656] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.771][127.0.0.1:33821] client connect
+[17:49:21.771][127.0.0.1:33602] client disconnect
+[17:49:21.771][127.0.0.1:33656] client disconnect
+[17:49:21.782][127.0.0.1:33815] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.792][127.0.0.1:33818] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.794][127.0.0.1:33817] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.836][127.0.0.1:33821] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.879][127.0.0.1:33823] client connect
+[17:49:21.881][127.0.0.1:33824] client connect
+[17:49:21.883][127.0.0.1:33628] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.883][127.0.0.1:33678] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:21.883][127.0.0.1:33825] client connect
+[17:49:21.885][127.0.0.1:33744] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.885][127.0.0.1:33756] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.885][127.0.0.1:33755] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.886][127.0.0.1:33826] client connect
+[17:49:21.887][127.0.0.1:33827] client connect
+[17:49:21.888][127.0.0.1:33628] client disconnect
+[17:49:21.888][127.0.0.1:33678] client disconnect
+[17:49:21.889][127.0.0.1:33828] client connect
+[17:49:21.890][127.0.0.1:33744] client disconnect
+[17:49:21.890][127.0.0.1:33756] client disconnect
+[17:49:21.890][127.0.0.1:33755] client disconnect
+[17:49:21.892][127.0.0.1:33829] client connect
+[17:49:21.894][127.0.0.1:33830] client connect
+[17:49:21.896][127.0.0.1:33831] client connect
+[17:49:21.923][127.0.0.1:33823] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:21.949][127.0.0.1:33841] client connect
+[17:49:21.956][127.0.0.1:33769] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:21.956][127.0.0.1:33769] client disconnect
+[17:49:21.957][127.0.0.1:33843] client connect
+[17:49:21.966][127.0.0.1:33827] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.967][127.0.0.1:33829] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.968][127.0.0.1:33825] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.968][127.0.0.1:33824] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.969][127.0.0.1:33828] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.969][127.0.0.1:33831] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:21.970][127.0.0.1:33830] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.970][127.0.0.1:33826] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:21.982][127.0.0.1:33845] client connect
+[17:49:22.014][127.0.0.1:33841] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.022][127.0.0.1:33843] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.024][127.0.0.1:33649] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.024][127.0.0.1:33727] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.025][127.0.0.1:33649] client disconnect
+[17:49:22.025][127.0.0.1:33727] client disconnect
+[17:49:22.025][127.0.0.1:33847] client connect
+[17:49:22.030][127.0.0.1:33590] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.030][127.0.0.1:33648] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.030][127.0.0.1:33849] client connect
+[17:49:22.031][127.0.0.1:33590] client disconnect
+[17:49:22.031][127.0.0.1:33648] client disconnect
+[17:49:22.036][127.0.0.1:33419] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.036][127.0.0.1:33492] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.037][127.0.0.1:33763] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:22.037][127.0.0.1:33851] client connect
+[17:49:22.038][127.0.0.1:33419] client disconnect
+[17:49:22.038][127.0.0.1:33492] client disconnect
+[17:49:22.038][127.0.0.1:33763] client disconnect
+[17:49:22.047][127.0.0.1:33845] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.077][127.0.0.1:33608] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.077][127.0.0.1:33676] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.078][127.0.0.1:33853] client connect
+[17:49:22.078][127.0.0.1:33608] client disconnect
+[17:49:22.079][127.0.0.1:33676] client disconnect
+[17:49:22.080][127.0.0.1:33854] client connect
+[17:49:22.080][127.0.0.1:33610] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.081][127.0.0.1:33689] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.082][127.0.0.1:33610] client disconnect
+[17:49:22.082][127.0.0.1:33689] client disconnect
+[17:49:22.090][127.0.0.1:33847] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.096][127.0.0.1:33849] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.105][127.0.0.1:33851] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.107][127.0.0.1:33857] client connect
+[17:49:22.110][127.0.0.1:33797] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.111][127.0.0.1:33797] client disconnect
+[17:49:22.111][127.0.0.1:33859] client connect
+[17:49:22.125][127.0.0.1:33632] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.125][127.0.0.1:33693] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.126][127.0.0.1:33861] client connect
+[17:49:22.126][127.0.0.1:33632] client disconnect
+[17:49:22.127][127.0.0.1:33693] client disconnect
+[17:49:22.134][127.0.0.1:33863] client connect
+[17:49:22.146][127.0.0.1:33854] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.147][127.0.0.1:33853] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.148][127.0.0.1:33777] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.149][127.0.0.1:33777] client disconnect
+[17:49:22.149][127.0.0.1:33865] client connect
+[17:49:22.172][127.0.0.1:33857] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.199][127.0.0.1:33863] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.199][127.0.0.1:33861] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.201][127.0.0.1:33508] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.202][127.0.0.1:33578] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.202][127.0.0.1:33867] client connect
+[17:49:22.203][127.0.0.1:33767] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:22.203][127.0.0.1:33508] client disconnect
+[17:49:22.203][127.0.0.1:33578] client disconnect
+[17:49:22.205][127.0.0.1:33767] client disconnect
+[17:49:22.208][127.0.0.1:33801] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.209][127.0.0.1:33801] client disconnect
+[17:49:22.209][127.0.0.1:33869] client connect
+[17:49:22.215][127.0.0.1:33859] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.225][127.0.0.1:33596] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.225][127.0.0.1:33673] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.226][127.0.0.1:33596] client disconnect
+[17:49:22.226][127.0.0.1:33673] client disconnect
+[17:49:22.227][127.0.0.1:33871] client connect
+[17:49:22.228][127.0.0.1:33865] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.270][127.0.0.1:33867] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.279][127.0.0.1:33869] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.291][127.0.0.1:33871] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.330][127.0.0.1:33873] client connect
+[17:49:22.346][127.0.0.1:33805] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.347][127.0.0.1:33805] client disconnect
+[17:49:22.347][127.0.0.1:33875] client connect
+[17:49:22.367][127.0.0.1:33813] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.367][127.0.0.1:33813] client disconnect
+[17:49:22.367][127.0.0.1:33877] client connect
+[17:49:22.373][127.0.0.1:33775] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.373][127.0.0.1:33845] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.374][127.0.0.1:33879] client connect
+[17:49:22.374][127.0.0.1:33775] client disconnect
+[17:49:22.375][127.0.0.1:33845] client disconnect
+[17:49:22.388][127.0.0.1:33881] client connect
+[17:49:22.394][127.0.0.1:33873] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.409][127.0.0.1:33695] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.409][127.0.0.1:33743] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.410][127.0.0.1:33883] client connect
+[17:49:22.410][127.0.0.1:33695] client disconnect
+[17:49:22.410][127.0.0.1:33743] client disconnect
+[17:49:22.412][127.0.0.1:33875] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.427][127.0.0.1:33885] client connect
+[17:49:22.433][127.0.0.1:33877] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.439][127.0.0.1:33879] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.453][127.0.0.1:33881] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.468][127.0.0.1:33784] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.468][127.0.0.1:33857] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.469][127.0.0.1:33784] client disconnect
+[17:49:22.469][127.0.0.1:33857] client disconnect
+[17:49:22.469][127.0.0.1:33887] client connect
+[17:49:22.475][127.0.0.1:33883] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.478][127.0.0.1:33841] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.478][127.0.0.1:33778] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.479][127.0.0.1:33841] client disconnect
+[17:49:22.479][127.0.0.1:33778] client disconnect
+[17:49:22.480][127.0.0.1:33889] client connect
+[17:49:22.483][127.0.0.1:33891] client connect
+[17:49:22.492][127.0.0.1:33885] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.509][127.0.0.1:33702] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.510][127.0.0.1:33747] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.510][127.0.0.1:33893] client connect
+[17:49:22.511][127.0.0.1:33702] client disconnect
+[17:49:22.511][127.0.0.1:33747] client disconnect
+[17:49:22.520][127.0.0.1:33895] client connect
+[17:49:22.534][127.0.0.1:33887] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.542][127.0.0.1:33897] client connect
+[17:49:22.544][127.0.0.1:33889] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.547][127.0.0.1:33811] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.548][127.0.0.1:33737] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.548][127.0.0.1:33899] client connect
+[17:49:22.549][127.0.0.1:33811] client disconnect
+[17:49:22.549][127.0.0.1:33737] client disconnect
+[17:49:22.549][127.0.0.1:33891] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.549][127.0.0.1:33895] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:22.560][127.0.0.1:33709] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.560][127.0.0.1:33771] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.561][127.0.0.1:33901] client connect
+[17:49:22.562][127.0.0.1:33709] client disconnect
+[17:49:22.562][127.0.0.1:33771] client disconnect
+[17:49:22.563][127.0.0.1:33902] client connect
+[17:49:22.565][127.0.0.1:33843] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.566][127.0.0.1:33843] client disconnect
+[17:49:22.578][127.0.0.1:33893] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.582][127.0.0.1:33905] client connect
+[17:49:22.591][127.0.0.1:33907] client connect
+[17:49:22.607][127.0.0.1:33897] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.614][127.0.0.1:33899] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.632][127.0.0.1:33902] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.634][127.0.0.1:33901] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.644][127.0.0.1:33725] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.645][127.0.0.1:33781] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.645][127.0.0.1:33725] client disconnect
+[17:49:22.645][127.0.0.1:33909] client connect
+[17:49:22.646][127.0.0.1:33781] client disconnect
+[17:49:22.652][127.0.0.1:33905] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.660][127.0.0.1:33907] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.663][127.0.0.1:33849] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.664][127.0.0.1:33849] client disconnect
+[17:49:22.664][127.0.0.1:33911] client connect
+[17:49:22.701][127.0.0.1:33913] client connect
+[17:49:22.704][127.0.0.1:33773] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.704][127.0.0.1:33707] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.705][127.0.0.1:33914] client connect
+[17:49:22.705][127.0.0.1:33773] client disconnect
+[17:49:22.706][127.0.0.1:33707] client disconnect
+[17:49:22.710][127.0.0.1:33917] client connect
+[17:49:22.718][127.0.0.1:33909] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.723][127.0.0.1:33853] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.723][127.0.0.1:33853] client disconnect
+[17:49:22.724][127.0.0.1:33919] client connect
+[17:49:22.728][127.0.0.1:33911] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.741][127.0.0.1:33921] client connect
+[17:49:22.749][127.0.0.1:33713] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.749][127.0.0.1:33787] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.750][127.0.0.1:33923] client connect
+[17:49:22.750][127.0.0.1:33713] client disconnect
+[17:49:22.750][127.0.0.1:33787] client disconnect
+[17:49:22.752][127.0.0.1:33924] client connect
+[17:49:22.759][127.0.0.1:33851] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.759][127.0.0.1:33851] client disconnect
+[17:49:22.760][127.0.0.1:33927] client connect
+[17:49:22.766][127.0.0.1:33913] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.770][127.0.0.1:33914] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.774][127.0.0.1:33917] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.787][127.0.0.1:33919] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.805][127.0.0.1:33921] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.819][127.0.0.1:33924] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.819][127.0.0.1:33923] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.832][127.0.0.1:33927] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.847][127.0.0.1:33815] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.847][127.0.0.1:33881] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.848][127.0.0.1:33929] client connect
+[17:49:22.848][127.0.0.1:33815] client disconnect
+[17:49:22.849][127.0.0.1:33881] client disconnect
+[17:49:22.851][127.0.0.1:33729] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.851][127.0.0.1:33795] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.853][127.0.0.1:33930] client connect
+[17:49:22.853][127.0.0.1:33729] client disconnect
+[17:49:22.853][127.0.0.1:33795] client disconnect
+[17:49:22.897][127.0.0.1:33830] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.897][127.0.0.1:33897] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.898][127.0.0.1:33933] client connect
+[17:49:22.898][127.0.0.1:33830] client disconnect
+[17:49:22.898][127.0.0.1:33897] client disconnect
+[17:49:22.901][127.0.0.1:33934] client connect
+[17:49:22.905][127.0.0.1:33937] client connect
+[17:49:22.915][127.0.0.1:33929] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.920][127.0.0.1:33264] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.920][127.0.0.1:33366] server disconnect account.live.com:443 (20.190.190.130:443)
+[17:49:22.921][127.0.0.1:33939] client connect
+[17:49:22.922][127.0.0.1:33823] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:22.923][127.0.0.1:33264] client disconnect
+[17:49:22.923][127.0.0.1:33366] client disconnect
+[17:49:22.924][127.0.0.1:33823] client disconnect
+[17:49:22.924][127.0.0.1:33930] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.926][127.0.0.1:33859] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.927][127.0.0.1:33940] client connect
+[17:49:22.927][127.0.0.1:33859] client disconnect
+[17:49:22.954][127.0.0.1:33883] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.955][127.0.0.1:33883] client disconnect
+[17:49:22.955][127.0.0.1:33943] client connect
+[17:49:22.957][127.0.0.1:33944] client connect
+[17:49:22.962][127.0.0.1:33733] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.962][127.0.0.1:33803] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.963][127.0.0.1:33733] client disconnect
+[17:49:22.963][127.0.0.1:33803] client disconnect
+[17:49:22.963][127.0.0.1:33947] client connect
+[17:49:22.977][127.0.0.1:33933] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.978][127.0.0.1:33934] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.978][127.0.0.1:33937] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:22.988][127.0.0.1:33939] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.990][127.0.0.1:33875] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.990][127.0.0.1:33875] client disconnect
+[17:49:22.991][127.0.0.1:33949] client connect
+[17:49:22.993][127.0.0.1:33940] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:22.994][127.0.0.1:33950] client connect
+[17:49:22.994][127.0.0.1:33723] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:22.994][127.0.0.1:33791] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:22.996][127.0.0.1:33723] client disconnect
+[17:49:22.996][127.0.0.1:33791] client disconnect
+[17:49:23.001][127.0.0.1:33829] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.001][127.0.0.1:33905] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.002][127.0.0.1:33829] client disconnect
+[17:49:23.002][127.0.0.1:33905] client disconnect
+[17:49:23.002][127.0.0.1:33953] client connect
+[17:49:23.023][127.0.0.1:33944] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.028][127.0.0.1:33943] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.028][127.0.0.1:33947] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.058][127.0.0.1:33879] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.059][127.0.0.1:33879] client disconnect
+[17:49:23.059][127.0.0.1:33955] client connect
+[17:49:23.060][127.0.0.1:33950] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.061][127.0.0.1:33949] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.066][127.0.0.1:33953] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.071][127.0.0.1:33957] client connect
+[17:49:23.084][127.0.0.1:33957] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.085][127.0.0.1:33959] client connect
+[17:49:23.088][127.0.0.1:33887] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.088][127.0.0.1:33960] client connect
+[17:49:23.089][127.0.0.1:33887] client disconnect
+[17:49:23.094][127.0.0.1:33963] client connect
+[17:49:23.124][127.0.0.1:33865] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.124][127.0.0.1:33924] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.125][127.0.0.1:33965] client connect
+[17:49:23.125][127.0.0.1:33865] client disconnect
+[17:49:23.125][127.0.0.1:33924] client disconnect
+[17:49:23.127][127.0.0.1:33955] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.151][127.0.0.1:33959] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.152][127.0.0.1:33967] client connect
+[17:49:23.153][127.0.0.1:33899] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.153][127.0.0.1:33968] client connect
+[17:49:23.154][127.0.0.1:33899] client disconnect
+[17:49:23.158][127.0.0.1:33960] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.160][127.0.0.1:33901] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.161][127.0.0.1:33901] client disconnect
+[17:49:23.161][127.0.0.1:33971] client connect
+[17:49:23.162][127.0.0.1:33963] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.173][127.0.0.1:33854] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.174][127.0.0.1:33917] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.174][127.0.0.1:33973] client connect
+[17:49:23.175][127.0.0.1:33854] client disconnect
+[17:49:23.175][127.0.0.1:33917] client disconnect
+[17:49:23.186][127.0.0.1:33975] client connect
+[17:49:23.187][127.0.0.1:33735] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.187][127.0.0.1:33807] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.189][127.0.0.1:33976] client connect
+[17:49:23.190][127.0.0.1:33735] client disconnect
+[17:49:23.190][127.0.0.1:33807] client disconnect
+[17:49:23.190][127.0.0.1:33696] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.191][127.0.0.1:33616] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.192][127.0.0.1:33895] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.193][127.0.0.1:33696] client disconnect
+[17:49:23.193][127.0.0.1:33616] client disconnect
+[17:49:23.194][127.0.0.1:33895] client disconnect
+[17:49:23.196][127.0.0.1:33965] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.220][127.0.0.1:33967] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.225][127.0.0.1:33679] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.225][127.0.0.1:33739] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.226][127.0.0.1:33979] client connect
+[17:49:23.227][127.0.0.1:33679] client disconnect
+[17:49:23.227][127.0.0.1:33739] client disconnect
+[17:49:23.227][127.0.0.1:33968] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.229][127.0.0.1:33971] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.240][127.0.0.1:33902] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.240][127.0.0.1:33902] client disconnect
+[17:49:23.241][127.0.0.1:33981] client connect
+[17:49:23.242][127.0.0.1:33973] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.243][127.0.0.1:33982] client connect
+[17:49:23.245][127.0.0.1:33983] client connect
+[17:49:23.258][127.0.0.1:33976] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.260][127.0.0.1:33975] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.284][127.0.0.1:33741] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.284][127.0.0.1:33831] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.285][127.0.0.1:33987] client connect
+[17:49:23.285][127.0.0.1:33741] client disconnect
+[17:49:23.285][127.0.0.1:33831] client disconnect
+[17:49:23.308][127.0.0.1:33981] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.310][127.0.0.1:33989] client connect
+[17:49:23.315][127.0.0.1:33979] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.315][127.0.0.1:33982] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.315][127.0.0.1:33983] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.318][127.0.0.1:33761] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.319][127.0.0.1:33824] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.319][127.0.0.1:33991] client connect
+[17:49:23.320][127.0.0.1:33761] client disconnect
+[17:49:23.320][127.0.0.1:33824] client disconnect
+[17:49:23.335][127.0.0.1:33817] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.335][127.0.0.1:33731] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.336][127.0.0.1:33993] client connect
+[17:49:23.336][127.0.0.1:33817] client disconnect
+[17:49:23.337][127.0.0.1:33731] client disconnect
+[17:49:23.353][127.0.0.1:33987] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.374][127.0.0.1:33989] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.384][127.0.0.1:33759] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.384][127.0.0.1:33685] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.384][127.0.0.1:33995] client connect
+[17:49:23.385][127.0.0.1:33957] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.386][127.0.0.1:33759] client disconnect
+[17:49:23.387][127.0.0.1:33685] client disconnect
+[17:49:23.387][127.0.0.1:33991] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.388][127.0.0.1:33957] client disconnect
+[17:49:23.401][127.0.0.1:33993] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.408][127.0.0.1:33997] client connect
+[17:49:23.421][127.0.0.1:33999] client connect
+[17:49:23.432][127.0.0.1:33927] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.432][127.0.0.1:33927] client disconnect
+[17:49:23.432][127.0.0.1:34001] client connect
+[17:49:23.434][127.0.0.1:34002] client connect
+[17:49:23.434][127.0.0.1:33923] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.436][127.0.0.1:33923] client disconnect
+[17:49:23.445][127.0.0.1:33999] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.454][127.0.0.1:33995] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.465][127.0.0.1:33929] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.466][127.0.0.1:33929] client disconnect
+[17:49:23.466][127.0.0.1:34005] client connect
+[17:49:23.475][127.0.0.1:33997] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.479][127.0.0.1:33930] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.480][127.0.0.1:34007] client connect
+[17:49:23.480][127.0.0.1:33930] client disconnect
+[17:49:23.481][127.0.0.1:34008] client connect
+[17:49:23.488][127.0.0.1:34011] client connect
+[17:49:23.495][127.0.0.1:34007] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.499][127.0.0.1:34001] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.510][127.0.0.1:33893] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.510][127.0.0.1:33963] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.511][127.0.0.1:34013] client connect
+[17:49:23.511][127.0.0.1:33893] client disconnect
+[17:49:23.512][127.0.0.1:33963] client disconnect
+[17:49:23.513][127.0.0.1:34011] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.514][127.0.0.1:34014] client connect
+[17:49:23.514][127.0.0.1:33809] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.514][127.0.0.1:33873] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.515][127.0.0.1:34002] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.517][127.0.0.1:33809] client disconnect
+[17:49:23.517][127.0.0.1:33873] client disconnect
+[17:49:23.539][127.0.0.1:34005] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.540][127.0.0.1:34017] client connect
+[17:49:23.543][127.0.0.1:33947] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.544][127.0.0.1:33947] client disconnect
+[17:49:23.544][127.0.0.1:34019] client connect
+[17:49:23.547][127.0.0.1:34008] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.550][127.0.0.1:33933] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.550][127.0.0.1:33933] client disconnect
+[17:49:23.550][127.0.0.1:34021] client connect
+[17:49:23.561][127.0.0.1:33940] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.561][127.0.0.1:33940] client disconnect
+[17:49:23.562][127.0.0.1:34023] client connect
+[17:49:23.580][127.0.0.1:34013] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.581][127.0.0.1:34014] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.604][127.0.0.1:34017] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.609][127.0.0.1:34019] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.614][127.0.0.1:34025] client connect
+[17:49:23.616][127.0.0.1:34026] client connect
+[17:49:23.617][127.0.0.1:33788] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.617][127.0.0.1:33863] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.619][127.0.0.1:33788] client disconnect
+[17:49:23.619][127.0.0.1:33863] client disconnect
+[17:49:23.619][127.0.0.1:34021] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.630][127.0.0.1:34025] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.631][127.0.0.1:34023] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.638][127.0.0.1:34029] client connect
+[17:49:23.649][127.0.0.1:33955] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.650][127.0.0.1:33955] client disconnect
+[17:49:23.650][127.0.0.1:34031] client connect
+[17:49:23.651][127.0.0.1:34032] client connect
+[17:49:23.651][127.0.0.1:33950] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.653][127.0.0.1:33950] client disconnect
+[17:49:23.672][127.0.0.1:34035] client connect
+[17:49:23.675][127.0.0.1:33764] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.676][127.0.0.1:33828] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.676][127.0.0.1:34037] client connect
+[17:49:23.677][127.0.0.1:33764] client disconnect
+[17:49:23.677][127.0.0.1:33828] client disconnect
+[17:49:23.679][127.0.0.1:34038] client connect
+[17:49:23.683][127.0.0.1:34026] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.702][127.0.0.1:33914] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.702][127.0.0.1:33989] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.703][127.0.0.1:34041] client connect
+[17:49:23.703][127.0.0.1:33914] client disconnect
+[17:49:23.703][127.0.0.1:33989] client disconnect
+[17:49:23.706][127.0.0.1:34029] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.716][127.0.0.1:34031] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.717][127.0.0.1:34032] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.723][127.0.0.1:33960] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.723][127.0.0.1:33960] client disconnect
+[17:49:23.723][127.0.0.1:34043] client connect
+[17:49:23.737][127.0.0.1:34035] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.745][127.0.0.1:34037] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.757][127.0.0.1:34038] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.759][127.0.0.1:33919] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.759][127.0.0.1:33997] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.760][127.0.0.1:34045] client connect
+[17:49:23.760][127.0.0.1:33919] client disconnect
+[17:49:23.760][127.0.0.1:33997] client disconnect
+[17:49:23.769][127.0.0.1:34041] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.770][127.0.0.1:33826] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.771][127.0.0.1:33891] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.771][127.0.0.1:34047] client connect
+[17:49:23.772][127.0.0.1:33826] client disconnect
+[17:49:23.772][127.0.0.1:33891] client disconnect
+[17:49:23.778][127.0.0.1:33973] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.778][127.0.0.1:33973] client disconnect
+[17:49:23.778][127.0.0.1:34049] client connect
+[17:49:23.792][127.0.0.1:34043] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.793][127.0.0.1:33981] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.794][127.0.0.1:33981] client disconnect
+[17:49:23.794][127.0.0.1:34051] client connect
+[17:49:23.798][127.0.0.1:33965] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.799][127.0.0.1:33965] client disconnect
+[17:49:23.799][127.0.0.1:34053] client connect
+[17:49:23.803][127.0.0.1:34055] client connect
+[17:49:23.807][127.0.0.1:34057] client connect
+[17:49:23.813][127.0.0.1:33975] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.813][127.0.0.1:33975] client disconnect
+[17:49:23.813][127.0.0.1:34059] client connect
+[17:49:23.824][127.0.0.1:34045] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.829][127.0.0.1:33971] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.829][127.0.0.1:34061] client connect
+[17:49:23.830][127.0.0.1:33971] client disconnect
+[17:49:23.836][127.0.0.1:34047] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.843][127.0.0.1:34049] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.861][127.0.0.1:34051] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.864][127.0.0.1:34053] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.867][127.0.0.1:34055] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.870][127.0.0.1:34057] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:23.879][127.0.0.1:34059] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.895][127.0.0.1:34061] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:23.938][127.0.0.1:33701] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.939][127.0.0.1:34063] client connect
+[17:49:23.940][127.0.0.1:33753] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.942][127.0.0.1:33701] client disconnect
+[17:49:23.943][127.0.0.1:34064] client connect
+[17:49:23.943][127.0.0.1:34007] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.945][127.0.0.1:33753] client disconnect
+[17:49:23.945][127.0.0.1:33714] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.945][127.0.0.1:33793] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.946][127.0.0.1:33717] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.946][127.0.0.1:33783] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.946][127.0.0.1:34065] client connect
+[17:49:23.948][127.0.0.1:33979] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.948][127.0.0.1:33934] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.948][127.0.0.1:33871] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.949][127.0.0.1:33999] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.949][127.0.0.1:34011] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.949][127.0.0.1:34066] client connect
+[17:49:23.951][127.0.0.1:34007] client disconnect
+[17:49:23.952][127.0.0.1:34025] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:23.953][127.0.0.1:34067] client connect
+[17:49:23.953][127.0.0.1:33714] client disconnect
+[17:49:23.953][127.0.0.1:33793] client disconnect
+[17:49:23.954][127.0.0.1:33717] client disconnect
+[17:49:23.954][127.0.0.1:33783] client disconnect
+[17:49:23.956][127.0.0.1:33979] client disconnect
+[17:49:23.956][127.0.0.1:33934] client disconnect
+[17:49:23.956][127.0.0.1:33871] client disconnect
+[17:49:23.956][127.0.0.1:33999] client disconnect
+[17:49:23.956][127.0.0.1:34011] client disconnect
+[17:49:23.958][127.0.0.1:34025] client disconnect
+[17:49:23.975][127.0.0.1:33987] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.975][127.0.0.1:33987] client disconnect
+[17:49:23.975][127.0.0.1:34073] client connect
+[17:49:23.978][127.0.0.1:33751] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.978][127.0.0.1:33825] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.979][127.0.0.1:34074] client connect
+[17:49:23.980][127.0.0.1:33751] client disconnect
+[17:49:23.980][127.0.0.1:33825] client disconnect
+[17:49:23.986][127.0.0.1:34077] client connect
+[17:49:23.996][127.0.0.1:33885] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:23.996][127.0.0.1:33821] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:23.997][127.0.0.1:34079] client connect
+[17:49:23.997][127.0.0.1:33885] client disconnect
+[17:49:23.998][127.0.0.1:33821] client disconnect
+[17:49:24.020][127.0.0.1:33993] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.021][127.0.0.1:33993] client disconnect
+[17:49:24.021][127.0.0.1:34081] client connect
+[17:49:24.027][127.0.0.1:34067] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.028][127.0.0.1:34066] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.028][127.0.0.1:34065] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.028][127.0.0.1:34063] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.028][127.0.0.1:34064] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.039][127.0.0.1:33995] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.039][127.0.0.1:33995] client disconnect
+[17:49:24.040][127.0.0.1:34083] client connect
+[17:49:24.047][127.0.0.1:34073] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.050][127.0.0.1:34077] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.059][127.0.0.1:34074] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.063][127.0.0.1:34079] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.075][127.0.0.1:33861] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.075][127.0.0.1:33921] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.076][127.0.0.1:34085] client connect
+[17:49:24.076][127.0.0.1:33861] client disconnect
+[17:49:24.076][127.0.0.1:33921] client disconnect
+[17:49:24.087][127.0.0.1:34081] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.104][127.0.0.1:34005] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.105][127.0.0.1:34005] client disconnect
+[17:49:24.105][127.0.0.1:34087] client connect
+[17:49:24.109][127.0.0.1:34083] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.141][127.0.0.1:34085] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.159][127.0.0.1:33847] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.159][127.0.0.1:33913] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.160][127.0.0.1:34089] client connect
+[17:49:24.160][127.0.0.1:33847] client disconnect
+[17:49:24.161][127.0.0.1:33913] client disconnect
+[17:49:24.165][127.0.0.1:34008] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.165][127.0.0.1:34008] client disconnect
+[17:49:24.166][127.0.0.1:34091] client connect
+[17:49:24.168][127.0.0.1:34092] client connect
+[17:49:24.168][127.0.0.1:33976] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.168][127.0.0.1:34057] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.170][127.0.0.1:33976] client disconnect
+[17:49:24.170][127.0.0.1:34057] client disconnect
+[17:49:24.171][127.0.0.1:34087] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.174][127.0.0.1:34095] client connect
+[17:49:24.197][127.0.0.1:33939] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.197][127.0.0.1:34035] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.198][127.0.0.1:34097] client connect
+[17:49:24.198][127.0.0.1:33939] client disconnect
+[17:49:24.199][127.0.0.1:34035] client disconnect
+[17:49:24.210][127.0.0.1:34099] client connect
+[17:49:24.225][127.0.0.1:34089] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.228][127.0.0.1:34101] client connect
+[17:49:24.237][127.0.0.1:34091] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.238][127.0.0.1:34095] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.239][127.0.0.1:34092] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.254][127.0.0.1:33867] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.255][127.0.0.1:33944] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.255][127.0.0.1:34103] client connect
+[17:49:24.256][127.0.0.1:33867] client disconnect
+[17:49:24.256][127.0.0.1:33944] client disconnect
+[17:49:24.264][127.0.0.1:34001] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.265][127.0.0.1:34001] client disconnect
+[17:49:24.265][127.0.0.1:34105] client connect
+[17:49:24.268][127.0.0.1:34014] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.268][127.0.0.1:34106] client connect
+[17:49:24.269][127.0.0.1:34014] client disconnect
+[17:49:24.270][127.0.0.1:34108] client connect
+[17:49:24.270][127.0.0.1:34097] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.273][127.0.0.1:34109] client connect
+[17:49:24.274][127.0.0.1:33968] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.275][127.0.0.1:34055] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.276][127.0.0.1:33968] client disconnect
+[17:49:24.277][127.0.0.1:34055] client disconnect
+[17:49:24.277][127.0.0.1:34099] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.292][127.0.0.1:34101] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.322][127.0.0.1:34103] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.330][127.0.0.1:34105] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.338][127.0.0.1:34108] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.343][127.0.0.1:34109] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.345][127.0.0.1:34106] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.392][127.0.0.1:34113] client connect
+[17:49:24.395][127.0.0.1:34114] client connect
+[17:49:24.396][127.0.0.1:34115] client connect
+[17:49:24.396][127.0.0.1:33991] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.398][127.0.0.1:34077] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.399][127.0.0.1:34045] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.399][127.0.0.1:34116] client connect
+[17:49:24.401][127.0.0.1:34038] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.401][127.0.0.1:33953] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.401][127.0.0.1:34117] client connect
+[17:49:24.402][127.0.0.1:34031] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.403][127.0.0.1:33991] client disconnect
+[17:49:24.404][127.0.0.1:34118] client connect
+[17:49:24.405][127.0.0.1:34077] client disconnect
+[17:49:24.405][127.0.0.1:34045] client disconnect
+[17:49:24.407][127.0.0.1:34119] client connect
+[17:49:24.407][127.0.0.1:34038] client disconnect
+[17:49:24.407][127.0.0.1:33953] client disconnect
+[17:49:24.408][127.0.0.1:34031] client disconnect
+[17:49:24.409][127.0.0.1:34120] client connect
+[17:49:24.421][127.0.0.1:34123] client connect
+[17:49:24.422][127.0.0.1:34002] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.422][127.0.0.1:34126] client connect
+[17:49:24.424][127.0.0.1:34002] client disconnect
+[17:49:24.426][127.0.0.1:34131] client connect
+[17:49:24.427][127.0.0.1:33937] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.427][127.0.0.1:33869] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.429][127.0.0.1:33937] client disconnect
+[17:49:24.429][127.0.0.1:33869] client disconnect
+[17:49:24.436][127.0.0.1:34049] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.437][127.0.0.1:34049] client disconnect
+[17:49:24.437][127.0.0.1:34135] client connect
+[17:49:24.477][127.0.0.1:34137] client connect
+[17:49:24.479][127.0.0.1:34114] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.482][127.0.0.1:34119] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.483][127.0.0.1:34113] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.483][127.0.0.1:34115] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.484][127.0.0.1:34116] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.485][127.0.0.1:34118] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.485][127.0.0.1:34117] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.485][127.0.0.1:34120] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.490][127.0.0.1:34123] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.493][127.0.0.1:34131] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.494][127.0.0.1:34126] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.506][127.0.0.1:34135] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.508][127.0.0.1:34139] client connect
+[17:49:24.545][127.0.0.1:34137] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.556][127.0.0.1:33909] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.556][127.0.0.1:33982] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.557][127.0.0.1:34141] client connect
+[17:49:24.557][127.0.0.1:33909] client disconnect
+[17:49:24.558][127.0.0.1:33982] client disconnect
+[17:49:24.572][127.0.0.1:34139] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.595][127.0.0.1:34143] client connect
+[17:49:24.598][127.0.0.1:33907] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.598][127.0.0.1:33827] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.599][127.0.0.1:34144] client connect
+[17:49:24.599][127.0.0.1:33907] client disconnect
+[17:49:24.600][127.0.0.1:33827] client disconnect
+[17:49:24.602][127.0.0.1:34085] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.603][127.0.0.1:34085] client disconnect
+[17:49:24.603][127.0.0.1:34146] client connect
+[17:49:24.619][127.0.0.1:34026] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.619][127.0.0.1:34101] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.620][127.0.0.1:34149] client connect
+[17:49:24.621][127.0.0.1:34026] client disconnect
+[17:49:24.621][127.0.0.1:34101] client disconnect
+[17:49:24.624][127.0.0.1:34141] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.625][127.0.0.1:34021] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.625][127.0.0.1:34099] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.626][127.0.0.1:34151] client connect
+[17:49:24.627][127.0.0.1:34021] client disconnect
+[17:49:24.627][127.0.0.1:34099] client disconnect
+[17:49:24.632][127.0.0.1:34064] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.633][127.0.0.1:34064] client disconnect
+[17:49:24.633][127.0.0.1:34153] client connect
+[17:49:24.637][127.0.0.1:34155] client connect
+[17:49:24.641][127.0.0.1:34157] client connect
+[17:49:24.645][127.0.0.1:34079] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.645][127.0.0.1:34079] client disconnect
+[17:49:24.646][127.0.0.1:34159] client connect
+[17:49:24.652][127.0.0.1:34032] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.652][127.0.0.1:34032] client disconnect
+[17:49:24.653][127.0.0.1:34161] client connect
+[17:49:24.657][127.0.0.1:34163] client connect
+[17:49:24.660][127.0.0.1:34074] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.661][127.0.0.1:34074] client disconnect
+[17:49:24.661][127.0.0.1:34165] client connect
+[17:49:24.662][127.0.0.1:34143] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.663][127.0.0.1:34166] client connect
+[17:49:24.664][127.0.0.1:34023] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.664][127.0.0.1:34095] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.665][127.0.0.1:34023] client disconnect
+[17:49:24.666][127.0.0.1:34095] client disconnect
+[17:49:24.671][127.0.0.1:34146] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.671][127.0.0.1:34144] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.673][127.0.0.1:34169] client connect
+[17:49:24.689][127.0.0.1:34149] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.694][127.0.0.1:34151] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.696][127.0.0.1:34169] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:24.700][127.0.0.1:34153] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.706][127.0.0.1:34157] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.707][127.0.0.1:34155] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.710][127.0.0.1:34159] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.714][127.0.0.1:34171] client connect
+[17:49:24.718][127.0.0.1:34067] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.718][127.0.0.1:34067] client disconnect
+[17:49:24.718][127.0.0.1:34173] client connect
+[17:49:24.720][127.0.0.1:34174] client connect
+[17:49:24.721][127.0.0.1:34083] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.722][127.0.0.1:34083] client disconnect
+[17:49:24.722][127.0.0.1:34161] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.729][127.0.0.1:34163] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.732][127.0.0.1:34165] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.733][127.0.0.1:34166] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.754][127.0.0.1:33889] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.754][127.0.0.1:33967] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.755][127.0.0.1:34177] client connect
+[17:49:24.755][127.0.0.1:33889] client disconnect
+[17:49:24.755][127.0.0.1:33967] client disconnect
+[17:49:24.779][127.0.0.1:34171] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.788][127.0.0.1:34174] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.795][127.0.0.1:34037] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.795][127.0.0.1:34116] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.796][127.0.0.1:34179] client connect
+[17:49:24.796][127.0.0.1:34037] client disconnect
+[17:49:24.797][127.0.0.1:34116] client disconnect
+[17:49:24.800][127.0.0.1:34089] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.800][127.0.0.1:34180] client connect
+[17:49:24.801][127.0.0.1:34089] client disconnect
+[17:49:24.804][127.0.0.1:34173] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.807][127.0.0.1:34043] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.808][127.0.0.1:34114] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.809][127.0.0.1:34183] client connect
+[17:49:24.809][127.0.0.1:34043] client disconnect
+[17:49:24.809][127.0.0.1:34114] client disconnect
+[17:49:24.823][127.0.0.1:34041] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.824][127.0.0.1:34118] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.824][127.0.0.1:34185] client connect
+[17:49:24.825][127.0.0.1:34041] client disconnect
+[17:49:24.825][127.0.0.1:34118] client disconnect
+[17:49:24.837][127.0.0.1:34177] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.840][127.0.0.1:34187] client connect
+[17:49:24.852][127.0.0.1:34053] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.852][127.0.0.1:34053] client disconnect
+[17:49:24.853][127.0.0.1:34189] client connect
+[17:49:24.861][127.0.0.1:34179] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.862][127.0.0.1:34191] client connect
+[17:49:24.862][127.0.0.1:34066] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.864][127.0.0.1:34066] client disconnect
+[17:49:24.869][127.0.0.1:34180] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.874][127.0.0.1:34059] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.874][127.0.0.1:34137] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.875][127.0.0.1:34193] client connect
+[17:49:24.875][127.0.0.1:34059] client disconnect
+[17:49:24.875][127.0.0.1:34137] client disconnect
+[17:49:24.877][127.0.0.1:34194] client connect
+[17:49:24.878][127.0.0.1:34105] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.878][127.0.0.1:34183] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.879][127.0.0.1:34105] client disconnect
+[17:49:24.889][127.0.0.1:34051] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.890][127.0.0.1:34126] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.890][127.0.0.1:34197] client connect
+[17:49:24.891][127.0.0.1:34051] client disconnect
+[17:49:24.891][127.0.0.1:34126] client disconnect
+[17:49:24.891][127.0.0.1:34185] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.896][127.0.0.1:34123] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.897][127.0.0.1:34123] client disconnect
+[17:49:24.897][127.0.0.1:34199] client connect
+[17:49:24.899][127.0.0.1:33911] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.900][127.0.0.1:33983] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.901][127.0.0.1:34200] client connect
+[17:49:24.902][127.0.0.1:33911] client disconnect
+[17:49:24.902][127.0.0.1:33983] client disconnect
+[17:49:24.902][127.0.0.1:34201] client connect
+[17:49:24.904][127.0.0.1:34103] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.906][127.0.0.1:34103] client disconnect
+[17:49:24.906][127.0.0.1:34187] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:24.921][127.0.0.1:34189] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.940][127.0.0.1:34191] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.943][127.0.0.1:34194] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.947][127.0.0.1:34193] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.949][127.0.0.1:34097] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.949][127.0.0.1:34097] client disconnect
+[17:49:24.950][127.0.0.1:34205] client connect
+[17:49:24.952][127.0.0.1:34120] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.953][127.0.0.1:34120] client disconnect
+[17:49:24.953][127.0.0.1:34206] client connect
+[17:49:24.955][127.0.0.1:34197] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.957][127.0.0.1:34208] client connect
+[17:49:24.960][127.0.0.1:34073] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.960][127.0.0.1:34143] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.960][127.0.0.1:34210] client connect
+[17:49:24.961][127.0.0.1:34073] client disconnect
+[17:49:24.961][127.0.0.1:34143] client disconnect
+[17:49:24.963][127.0.0.1:34109] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.964][127.0.0.1:34109] client disconnect
+[17:49:24.964][127.0.0.1:34212] client connect
+[17:49:24.967][127.0.0.1:34199] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.969][127.0.0.1:34113] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.969][127.0.0.1:34113] client disconnect
+[17:49:24.970][127.0.0.1:34215] client connect
+[17:49:24.972][127.0.0.1:34201] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.973][127.0.0.1:34200] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:24.974][127.0.0.1:34216] client connect
+[17:49:24.975][127.0.0.1:33949] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:24.975][127.0.0.1:34017] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:24.976][127.0.0.1:33949] client disconnect
+[17:49:24.977][127.0.0.1:34017] client disconnect
+[17:49:24.980][127.0.0.1:34219] client connect
+[17:49:25.015][127.0.0.1:34205] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.021][127.0.0.1:34208] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.022][127.0.0.1:34206] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.025][127.0.0.1:34065] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.025][127.0.0.1:34155] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.026][127.0.0.1:34221] client connect
+[17:49:25.026][127.0.0.1:34065] client disconnect
+[17:49:25.026][127.0.0.1:34155] client disconnect
+[17:49:25.028][127.0.0.1:34210] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.036][127.0.0.1:34212] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.042][127.0.0.1:34216] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.042][127.0.0.1:34215] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.048][127.0.0.1:34219] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.049][127.0.0.1:34063] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.050][127.0.0.1:34163] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.050][127.0.0.1:34223] client connect
+[17:49:25.050][127.0.0.1:34063] client disconnect
+[17:49:25.051][127.0.0.1:34163] client disconnect
+[17:49:25.090][127.0.0.1:34029] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.090][127.0.0.1:33943] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.091][127.0.0.1:34029] client disconnect
+[17:49:25.092][127.0.0.1:34225] client connect
+[17:49:25.092][127.0.0.1:33943] client disconnect
+[17:49:25.093][127.0.0.1:34221] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.093][127.0.0.1:34226] client connect
+[17:49:25.098][127.0.0.1:34227] client connect
+[17:49:25.121][127.0.0.1:34223] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.123][127.0.0.1:34231] client connect
+[17:49:25.157][127.0.0.1:34144] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.158][127.0.0.1:34144] client disconnect
+[17:49:25.158][127.0.0.1:34233] client connect
+[17:49:25.160][127.0.0.1:34234] client connect
+[17:49:25.160][127.0.0.1:34151] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.162][127.0.0.1:34151] client disconnect
+[17:49:25.164][127.0.0.1:34226] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.165][127.0.0.1:34227] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.165][127.0.0.1:34225] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.186][127.0.0.1:34161] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.187][127.0.0.1:34161] client disconnect
+[17:49:25.187][127.0.0.1:34237] client connect
+[17:49:25.191][127.0.0.1:34231] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.224][127.0.0.1:34233] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.230][127.0.0.1:34234] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.233][127.0.0.1:34092] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.234][127.0.0.1:34187] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.234][127.0.0.1:34239] client connect
+[17:49:25.235][127.0.0.1:34092] client disconnect
+[17:49:25.235][127.0.0.1:34187] client disconnect
+[17:49:25.238][127.0.0.1:34157] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.238][127.0.0.1:34081] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.239][127.0.0.1:34240] client connect
+[17:49:25.239][127.0.0.1:34157] client disconnect
+[17:49:25.239][127.0.0.1:34081] client disconnect
+[17:49:25.242][127.0.0.1:34243] client connect
+[17:49:25.243][127.0.0.1:34244] client connect
+[17:49:25.247][127.0.0.1:34246] client connect
+[17:49:25.253][127.0.0.1:34249] client connect
+[17:49:25.254][127.0.0.1:34237] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.299][127.0.0.1:34239] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.303][127.0.0.1:34240] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.308][127.0.0.1:34244] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.311][127.0.0.1:34243] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.314][127.0.0.1:34177] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.315][127.0.0.1:34251] client connect
+[17:49:25.315][127.0.0.1:34177] client disconnect
+[17:49:25.316][127.0.0.1:34252] client connect
+[17:49:25.317][127.0.0.1:34106] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.317][127.0.0.1:34208] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.319][127.0.0.1:34106] client disconnect
+[17:49:25.319][127.0.0.1:34208] client disconnect
+[17:49:25.320][127.0.0.1:34246] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.328][127.0.0.1:34249] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.341][127.0.0.1:34180] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.342][127.0.0.1:34180] client disconnect
+[17:49:25.342][127.0.0.1:34255] client connect
+[17:49:25.352][127.0.0.1:34257] client connect
+[17:49:25.364][127.0.0.1:34259] client connect
+[17:49:25.369][127.0.0.1:34185] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.369][127.0.0.1:34185] client disconnect
+[17:49:25.370][127.0.0.1:34261] client connect
+[17:49:25.379][127.0.0.1:34263] client connect
+[17:49:25.386][127.0.0.1:34251] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.387][127.0.0.1:34252] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.388][127.0.0.1:34013] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.389][127.0.0.1:34013] client disconnect
+[17:49:25.389][127.0.0.1:34265] client connect
+[17:49:25.394][127.0.0.1:34179] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.394][127.0.0.1:34179] client disconnect
+[17:49:25.395][127.0.0.1:34267] client connect
+[17:49:25.397][127.0.0.1:34268] client connect
+[17:49:25.397][127.0.0.1:34091] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.397][127.0.0.1:34219] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.398][127.0.0.1:34091] client disconnect
+[17:49:25.399][127.0.0.1:34219] client disconnect
+[17:49:25.402][127.0.0.1:34165] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.402][127.0.0.1:34165] client disconnect
+[17:49:25.402][127.0.0.1:34271] client connect
+[17:49:25.407][127.0.0.1:34263] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.407][127.0.0.1:34255] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.422][127.0.0.1:34199] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.423][127.0.0.1:34199] client disconnect
+[17:49:25.423][127.0.0.1:34273] client connect
+[17:49:25.424][127.0.0.1:34257] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.434][127.0.0.1:34261] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.440][127.0.0.1:34259] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.451][127.0.0.1:34146] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.452][127.0.0.1:34146] client disconnect
+[17:49:25.452][127.0.0.1:34275] client connect
+[17:49:25.455][127.0.0.1:34276] client connect
+[17:49:25.455][127.0.0.1:34210] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.457][127.0.0.1:34210] client disconnect
+[17:49:25.459][127.0.0.1:34265] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.468][127.0.0.1:34268] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.469][127.0.0.1:34267] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.470][127.0.0.1:34279] client connect
+[17:49:25.477][127.0.0.1:34271] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.478][127.0.0.1:34281] client connect
+[17:49:25.482][127.0.0.1:34205] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.482][127.0.0.1:34205] client disconnect
+[17:49:25.483][127.0.0.1:34283] client connect
+[17:49:25.483][127.0.0.1:34279] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.486][127.0.0.1:34194] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.487][127.0.0.1:34194] client disconnect
+[17:49:25.487][127.0.0.1:34285] client connect
+[17:49:25.489][127.0.0.1:34173] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.490][127.0.0.1:34286] client connect
+[17:49:25.491][127.0.0.1:34173] client disconnect
+[17:49:25.493][127.0.0.1:34281] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.493][127.0.0.1:34273] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.494][127.0.0.1:34287] client connect
+[17:49:25.495][127.0.0.1:34189] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.496][127.0.0.1:34189] client disconnect
+[17:49:25.502][127.0.0.1:34244] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.502][127.0.0.1:34141] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.503][127.0.0.1:34291] client connect
+[17:49:25.503][127.0.0.1:34244] client disconnect
+[17:49:25.503][127.0.0.1:34141] client disconnect
+[17:49:25.509][127.0.0.1:34293] client connect
+[17:49:25.514][127.0.0.1:34243] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.514][127.0.0.1:34159] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.515][127.0.0.1:34295] client connect
+[17:49:25.515][127.0.0.1:34243] client disconnect
+[17:49:25.515][127.0.0.1:34159] client disconnect
+[17:49:25.521][127.0.0.1:34246] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.521][127.0.0.1:34153] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.522][127.0.0.1:34297] client connect
+[17:49:25.522][127.0.0.1:34246] client disconnect
+[17:49:25.522][127.0.0.1:34153] client disconnect
+[17:49:25.523][127.0.0.1:34276] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.525][127.0.0.1:34298] client connect
+[17:49:25.525][127.0.0.1:34249] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.525][127.0.0.1:34131] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.527][127.0.0.1:34249] client disconnect
+[17:49:25.527][127.0.0.1:34131] client disconnect
+[17:49:25.529][127.0.0.1:34275] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.530][127.0.0.1:34193] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.530][127.0.0.1:34193] client disconnect
+[17:49:25.531][127.0.0.1:34300] client connect
+[17:49:25.534][127.0.0.1:34212] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.534][127.0.0.1:34302] client connect
+[17:49:25.535][127.0.0.1:33818] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.535][127.0.0.1:33748] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.537][127.0.0.1:34303] client connect
+[17:49:25.537][127.0.0.1:34169] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.537][127.0.0.1:34212] client disconnect
+[17:49:25.538][127.0.0.1:33818] client disconnect
+[17:49:25.539][127.0.0.1:33748] client disconnect
+[17:49:25.540][127.0.0.1:34169] client disconnect
+[17:49:25.552][127.0.0.1:34283] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.556][127.0.0.1:34285] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.558][127.0.0.1:34286] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.559][127.0.0.1:34135] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.559][127.0.0.1:34226] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.560][127.0.0.1:34307] client connect
+[17:49:25.560][127.0.0.1:34135] client disconnect
+[17:49:25.560][127.0.0.1:34226] client disconnect
+[17:49:25.561][127.0.0.1:34308] client connect
+[17:49:25.561][127.0.0.1:34206] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.563][127.0.0.1:34206] client disconnect
+[17:49:25.563][127.0.0.1:34287] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.569][127.0.0.1:34291] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.573][127.0.0.1:34201] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.574][127.0.0.1:34201] client disconnect
+[17:49:25.574][127.0.0.1:34311] client connect
+[17:49:25.574][127.0.0.1:34293] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.582][127.0.0.1:34295] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.583][127.0.0.1:34183] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.584][127.0.0.1:34183] client disconnect
+[17:49:25.584][127.0.0.1:34313] client connect
+[17:49:25.588][127.0.0.1:34315] client connect
+[17:49:25.591][127.0.0.1:34297] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.591][127.0.0.1:34298] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.596][127.0.0.1:34300] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.600][127.0.0.1:34117] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.600][127.0.0.1:34231] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.601][127.0.0.1:34317] client connect
+[17:49:25.601][127.0.0.1:34117] client disconnect
+[17:49:25.601][127.0.0.1:34231] client disconnect
+[17:49:25.604][127.0.0.1:34302] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.605][127.0.0.1:34303] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.619][127.0.0.1:34019] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.620][127.0.0.1:34108] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.621][127.0.0.1:34319] client connect
+[17:49:25.622][127.0.0.1:34019] client disconnect
+[17:49:25.622][127.0.0.1:34108] client disconnect
+[17:49:25.627][127.0.0.1:34307] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.628][127.0.0.1:34308] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.639][127.0.0.1:34225] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.640][127.0.0.1:34225] client disconnect
+[17:49:25.640][127.0.0.1:34321] client connect
+[17:49:25.643][127.0.0.1:34311] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.649][127.0.0.1:34313] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.655][127.0.0.1:34315] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.657][127.0.0.1:34323] client connect
+[17:49:25.666][127.0.0.1:34317] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.672][127.0.0.1:34325] client connect
+[17:49:25.701][127.0.0.1:34319] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.706][127.0.0.1:34321] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.723][127.0.0.1:34323] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.768][127.0.0.1:34325] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.804][127.0.0.1:34327] client connect
+[17:49:25.806][127.0.0.1:34328] client connect
+[17:49:25.809][127.0.0.1:34329] client connect
+[17:49:25.809][127.0.0.1:34234] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.811][127.0.0.1:34216] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.811][127.0.0.1:34149] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.811][127.0.0.1:33959] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.812][127.0.0.1:33877] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.812][127.0.0.1:34174] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.812][127.0.0.1:34259] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.812][127.0.0.1:34330] client connect
+[17:49:25.814][127.0.0.1:34281] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.815][127.0.0.1:34263] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.815][127.0.0.1:34331] client connect
+[17:49:25.816][127.0.0.1:34234] client disconnect
+[17:49:25.817][127.0.0.1:34332] client connect
+[17:49:25.818][127.0.0.1:34216] client disconnect
+[17:49:25.818][127.0.0.1:34149] client disconnect
+[17:49:25.818][127.0.0.1:33959] client disconnect
+[17:49:25.818][127.0.0.1:33877] client disconnect
+[17:49:25.818][127.0.0.1:34174] client disconnect
+[17:49:25.818][127.0.0.1:34259] client disconnect
+[17:49:25.820][127.0.0.1:34333] client connect
+[17:49:25.821][127.0.0.1:34281] client disconnect
+[17:49:25.821][127.0.0.1:34263] client disconnect
+[17:49:25.826][127.0.0.1:34334] client connect
+[17:49:25.831][127.0.0.1:34335] client connect
+[17:49:25.832][127.0.0.1:34166] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.832][127.0.0.1:34257] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.834][127.0.0.1:34339] client connect
+[17:49:25.835][127.0.0.1:34166] client disconnect
+[17:49:25.835][127.0.0.1:34257] client disconnect
+[17:49:25.836][127.0.0.1:34342] client connect
+[17:49:25.838][127.0.0.1:34239] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.840][127.0.0.1:34239] client disconnect
+[17:49:25.868][127.0.0.1:34293] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:25.868][127.0.0.1:34197] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.870][127.0.0.1:34349] client connect
+[17:49:25.871][127.0.0.1:34293] client disconnect
+[17:49:25.871][127.0.0.1:34197] client disconnect
+[17:49:25.873][127.0.0.1:34339] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.891][127.0.0.1:34329] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.893][127.0.0.1:34331] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.893][127.0.0.1:34330] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.893][127.0.0.1:34332] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.895][127.0.0.1:34333] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.900][127.0.0.1:34328] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.901][127.0.0.1:34334] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.910][127.0.0.1:34327] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:25.910][127.0.0.1:34335] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.911][127.0.0.1:34342] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.934][127.0.0.1:34271] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.934][127.0.0.1:34271] client disconnect
+[17:49:25.935][127.0.0.1:34351] client connect
+[17:49:25.940][127.0.0.1:34349] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:25.942][127.0.0.1:34353] client connect
+[17:49:25.942][127.0.0.1:34276] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.943][127.0.0.1:34268] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.944][127.0.0.1:34354] client connect
+[17:49:25.945][127.0.0.1:34276] client disconnect
+[17:49:25.945][127.0.0.1:34268] client disconnect
+[17:49:25.959][127.0.0.1:34357] client connect
+[17:49:25.972][127.0.0.1:34357] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:25.991][127.0.0.1:34265] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:25.992][127.0.0.1:34265] client disconnect
+[17:49:25.992][127.0.0.1:34359] client connect
+[17:49:26.000][127.0.0.1:34351] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.013][127.0.0.1:34354] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.015][127.0.0.1:34353] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.017][127.0.0.1:34361] client connect
+[17:49:26.033][127.0.0.1:34363] client connect
+[17:49:26.041][127.0.0.1:34191] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.042][127.0.0.1:34315] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:26.042][127.0.0.1:34365] client connect
+[17:49:26.043][127.0.0.1:34191] client disconnect
+[17:49:26.043][127.0.0.1:34315] client disconnect
+[17:49:26.045][127.0.0.1:34366] client connect
+[17:49:26.045][127.0.0.1:34261] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.048][127.0.0.1:34261] client disconnect
+[17:49:26.051][127.0.0.1:34267] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.052][127.0.0.1:34267] client disconnect
+[17:49:26.052][127.0.0.1:34369] client connect
+[17:49:26.058][127.0.0.1:34359] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.067][127.0.0.1:34087] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.067][127.0.0.1:34171] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:26.068][127.0.0.1:34279] server disconnect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:26.068][127.0.0.1:34371] client connect
+[17:49:26.069][127.0.0.1:34087] client disconnect
+[17:49:26.069][127.0.0.1:34171] client disconnect
+[17:49:26.070][127.0.0.1:34279] client disconnect
+[17:49:26.087][127.0.0.1:34373] client connect
+[17:49:26.091][127.0.0.1:34328] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:26.091][127.0.0.1:34237] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.092][127.0.0.1:34375] client connect
+[17:49:26.093][127.0.0.1:34328] client disconnect
+[17:49:26.093][127.0.0.1:34237] client disconnect
+[17:49:26.096][127.0.0.1:34376] client connect
+[17:49:26.098][127.0.0.1:34363] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:26.099][127.0.0.1:34200] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.100][127.0.0.1:34325] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:26.100][127.0.0.1:34379] client connect
+[17:49:26.101][127.0.0.1:34200] client disconnect
+[17:49:26.101][127.0.0.1:34325] client disconnect
+[17:49:26.102][127.0.0.1:34361] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:26.123][127.0.0.1:34365] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.124][127.0.0.1:34366] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.124][127.0.0.1:34369] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.125][127.0.0.1:34381] client connect
+[17:49:26.127][127.0.0.1:34382] client connect
+[17:49:26.128][127.0.0.1:34298] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.129][127.0.0.1:34298] client disconnect
+[17:49:26.138][127.0.0.1:34373] server connect account-public-service-prod.ol.epicgames.com:443 (34.194.160.175:443)
+[17:49:26.140][127.0.0.1:34303] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.140][127.0.0.1:34303] client disconnect
+[17:49:26.141][127.0.0.1:34385] client connect
+[17:49:26.142][127.0.0.1:34386] client connect
+[17:49:26.143][127.0.0.1:34371] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.145][127.0.0.1:34387] client connect
+[17:49:26.146][127.0.0.1:34297] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.146][127.0.0.1:34388] client connect
+[17:49:26.150][127.0.0.1:34297] client disconnect
+[17:49:26.152][127.0.0.1:34389] client connect
+[17:49:26.153][127.0.0.1:34317] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.156][127.0.0.1:34317] client disconnect
+[17:49:26.158][127.0.0.1:34375] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.158][127.0.0.1:34047] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.159][127.0.0.1:34115] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:26.159][127.0.0.1:34395] client connect
+[17:49:26.160][127.0.0.1:34047] client disconnect
+[17:49:26.160][127.0.0.1:34115] client disconnect
+[17:49:26.161][127.0.0.1:34376] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:26.168][127.0.0.1:34379] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.192][127.0.0.1:34381] server connect account.live.com:443 (40.126.62.129:443)
+[17:49:26.192][127.0.0.1:34233] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:49:26.193][127.0.0.1:34334] server disconnect account.live.com:443 (40.126.62.129:443)
+[17:49:26.194][127.0.0.1:34397] client connect
+[17:49:26.194][127.0.0.1:34233] client disconnect
+[17:49:26.194][127.0.0.1:34334] client disconnect
+[17:49:26.195][127.0.0.1:34382] server connect login.live.com:443 (20.190.190.132:443)
+[17:49:26.196][127.0.0.1:34398] client connect
+[17:49:26.197][127.0.0.1:34283] server disconnect login.live.com:443 (20.190.190.132:443)
+[17:54:49.221] Loading script bypass\replay.py
+[17:54:49.223] HTTP(S) proxy listening at *:8080.
+[17:54:50.503][127.0.0.1:34896] client connect
+127.0.0.1:34896: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:34896: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+^C[17:56:40.151] Loading script bypass\replay.py
+[17:56:40.153] HTTP(S) proxy listening at *:8080.
+[17:56:40.498][127.0.0.1:34926] client connect
+127.0.0.1:34926: POST https://api.loschichos.lat/auth HTTP/2.0
+     << HTTP/1.1 200 OK 210b
+127.0.0.1:34926: POST https://api.loschichos.lat/data HTTP/2.0
+     << HTTP/1.1 200 OK 22.4k
+[17:56:51.103][127.0.0.1:34934] client connect
+[17:56:51.104][127.0.0.1:34935] client connect
+[17:56:51.105][127.0.0.1:34937] client connect
+[17:56:51.105][127.0.0.1:34936] client connect
+[17:56:51.107][127.0.0.1:34944] client connect
+[17:56:51.109][127.0.0.1:34939] client connect
+[17:56:51.111][127.0.0.1:34940] client connect
+[17:56:51.113][127.0.0.1:34938] client connect
+[17:56:51.114][127.0.0.1:34941] client connect
+[17:56:51.117][127.0.0.1:34942] client connect
+[17:56:51.120][127.0.0.1:34943] client connect
+[17:56:51.123][127.0.0.1:34945] client connect
+[17:56:51.125][127.0.0.1:34946] client connect
+[17:56:51.127][127.0.0.1:34947] client connect
+[17:56:51.129][127.0.0.1:34948] client connect
+[17:56:51.131][127.0.0.1:34949] client connect
+[17:56:51.134][127.0.0.1:34950] client connect
+[17:56:51.136][127.0.0.1:34951] client connect
+[17:56:51.138][127.0.0.1:34952] client connect
+[17:56:51.140][127.0.0.1:34953] client connect
+[17:56:51.143][127.0.0.1:34955] client connect
+[17:56:51.145][127.0.0.1:34954] client connect
+[17:56:51.148][127.0.0.1:34959] client connect
+[17:56:51.151][127.0.0.1:34956] client connect
+[17:56:51.153][127.0.0.1:34958] client connect
+[17:56:51.156][127.0.0.1:34965] client connect
+[17:56:51.158][127.0.0.1:34957] client connect
+[17:56:51.160][127.0.0.1:34961] client connect
+[17:56:51.163][127.0.0.1:34960] client connect
+[17:56:51.165][127.0.0.1:34941] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.165][127.0.0.1:34946] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.165][127.0.0.1:34963] client connect
+[17:56:51.168][127.0.0.1:34962] client connect
+[17:56:51.170][127.0.0.1:34942] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.170][127.0.0.1:34937] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.171][127.0.0.1:34944] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.171][127.0.0.1:34964] client connect
+[17:56:51.174][127.0.0.1:34966] client connect
+[17:56:51.176][127.0.0.1:34936] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.176][127.0.0.1:34938] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.176][127.0.0.1:34934] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.177][127.0.0.1:34939] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.177][127.0.0.1:34945] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.177][127.0.0.1:34967] client connect
+[17:56:51.180][127.0.0.1:34935] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.180][127.0.0.1:34947] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.180][127.0.0.1:34951] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.180][127.0.0.1:34968] client connect
+[17:56:51.183][127.0.0.1:34969] client connect
+[17:56:51.185][127.0.0.1:34949] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.186][127.0.0.1:34940] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.186][127.0.0.1:34948] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.186][127.0.0.1:34943] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.186][127.0.0.1:34950] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.187][127.0.0.1:34955] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.187][127.0.0.1:34970] client connect
+[17:56:51.190][127.0.0.1:34971] client connect
+[17:56:51.192][127.0.0.1:34952] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.193][127.0.0.1:34972] client connect
+[17:56:51.195][127.0.0.1:34953] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.195][127.0.0.1:34956] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.196][127.0.0.1:34973] client connect
+[17:56:51.198][127.0.0.1:34958] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.198][127.0.0.1:34954] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.199][127.0.0.1:34974] client connect
+[17:56:51.201][127.0.0.1:34959] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.202][127.0.0.1:34975] client connect
+[17:56:51.204][127.0.0.1:34957] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.204][127.0.0.1:34976] client connect
+[17:56:51.207][127.0.0.1:34978] client connect
+[17:56:51.209][127.0.0.1:34961] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.210][127.0.0.1:34979] client connect
+[17:56:51.212][127.0.0.1:34965] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.212][127.0.0.1:34977] client connect
+[17:56:51.216][127.0.0.1:34960] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.216][127.0.0.1:34980] client connect
+[17:56:51.219][127.0.0.1:34962] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.219][127.0.0.1:34983] client connect
+[17:56:51.222][127.0.0.1:34982] client connect
+[17:56:51.225][127.0.0.1:34963] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.225][127.0.0.1:34981] client connect
+[17:56:51.230][127.0.0.1:34969] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.230][127.0.0.1:34966] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.232][127.0.0.1:34967] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.234][127.0.0.1:34971] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.235][127.0.0.1:34968] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.236][127.0.0.1:34972] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.238][127.0.0.1:34964] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.241][127.0.0.1:34970] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.245][127.0.0.1:34973] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.246][127.0.0.1:34979] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.248][127.0.0.1:34983] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.249][127.0.0.1:34974] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.250][127.0.0.1:34982] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.250][127.0.0.1:34981] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.252][127.0.0.1:34976] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.256][127.0.0.1:34978] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.258][127.0.0.1:34980] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.262][127.0.0.1:34977] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.264][127.0.0.1:34975] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.376][127.0.0.1:34945] server disconnect login.live.com:443 (20.190.151.134:443)
+[17:56:51.376][127.0.0.1:34945] client disconnect
+[17:56:51.377][127.0.0.1:35034] client connect
+[17:56:51.415][127.0.0.1:35034] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.416][127.0.0.1:35036] client connect
+[17:56:51.429][127.0.0.1:34955] server disconnect login.live.com:443 (20.190.151.134:443)
+[17:56:51.430][127.0.0.1:34955] client disconnect
+[17:56:51.430][127.0.0.1:35037] client connect
+[17:56:51.433][127.0.0.1:35039] client connect
+[17:56:51.455][127.0.0.1:35037] server connect login.live.com:443 (20.190.151.134:443)
+[17:56:51.456][127.0.0.1:34941] server disconnect login.live.com:443 (20.190.151.134:443)
+[17:56:51.457][127.0.0.1:34941] client disconnect
+[17:56:51.457][127.0.0.1:35042] client connect
+[17:56:51.469][127.0.0.1:35044] client connect
+[17:56:51.471][127.0.0.1:34969] server disconnect login.live.com:443 (20.190.151.134:443)
+[17:56:51.471][127.0.0.1:35045] client connect
+[17:56:51.472][127.0.0.1:34969] client disconnect
+[17:56:51.475][127.0.0.1:35047] client connect
+[17:56:51.476][127.0.0.1:34946] server disconnect login.live.com:443 (20.190.151.134:443)
+[17:56:51.477][127.0.0.1:34946] client disconnect
+[17:56:51.482][127.0.0.1:35050] client connect

@@ -1,0 +1,10 @@
+[Tue 09/29/2026 17:56:39.06] launch: bolthotmail_patched.exe 
+[Tue 09/29/2026 17:56:39.06] copied proxies.txt -> app\ 
+[Tue 09/29/2026 17:56:39.06] copied apis.txt -> app\ 
+[Tue 09/29/2026 17:56:39.06] copied config.yml -> app\ 
+[Tue 09/29/2026 17:56:39.06] synced combos\ -> app\ 
+[Tue 09/29/2026 17:56:39.06] old proxies killed 
+[Tue 09/29/2026 17:56:39.06] using port 8080 
+[Tue 09/29/2026 17:56:39.06] mitmdump started on 8080 
+[Tue 09/29/2026 17:56:39.06] proxy listening 
+[Tue 09/29/2026 17:56:39.06] launching bolthotmail_patched.exe 

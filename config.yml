@@ -1,0 +1,21 @@
+
+print_bad: false
+print_invalid: true
+print_bad_format: true
+print_hits: true
+print_linked: true
+print_unlinked: true
+print_blocked: true
+print_retries: false
+print_custom: false
+print_twofactor: true
+proxy_level_usage: 0
+
+# Inbox search - senders to match (comma separated)
+inbox_senders: "noreply@discord.com,noreply@steampowered.com,help@acct.epicgames.com,no-reply@accounts.google.com,account@amazon.com,noreply@riotgames.com,noreply@albiononline.com,info@netflix.com"
+
+# Inbox search - keywords to match in subject/body (comma separated)
+inbox_keywords: "discord,steam,epicgames,fortnite,google,amazon,riot,valorant,league of legends,albion,netflix,spotify,paypal,twitch"
+
+# Chrome path for cookie browser (module 5)
+chrome_path: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"

@@ -1,0 +1,14 @@
+9/29/2026
+
+
+
+This leak wouldn't have happened if they were able to have a mature conversation about this. But of course not, they're skidded. I should have expected this.
+
+- t.me/sassylol
+
+put proxies in proxies.txt
+put combos in combos folder 
+you can change settings in config.json
+
+run bolt.bat 
+pick which module you want to load.

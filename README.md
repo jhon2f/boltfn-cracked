@@ -1,3 +1,5 @@
+FIXED VERSION AT https://t.me/leakitall/463
+
 # BOLT
 
 **Release Date:** September 29, 2026
